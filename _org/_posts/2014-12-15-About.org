@@ -1,0 +1,48 @@
+#+BEGIN_HTML
+---
+layout: post
+title: About
+excerpt: About me and why I setup this blog.
+categories:
+    - personal
+tags:
+    - poem
+    - record
+layout: post
+---
+#+END_HTML
+
+* About Me
+
+   I am JinQian Chen. This is my place record some thing in my life. Such as personal articles, book list, technique blogs. Hopefully, something here will be helpfull, that will be unexpected benefit.
+
+   I want to have a personal blog, where I can write something freely.
+
+   This should be a free land, of my own control. I used to dream of such place .
+
+   No one can walk away from his own story.     --By Jango.
+
+* About this Blog
+
+  This is my first personal page, and I will stay here for some more time.
+
+  I will learn this today: org2blog, jekyll. and buildup the blog as much as I can. I will translate and store something about myself. About this blog, I wish one day, some one I'm interested in can find and get know me by this. …… and thanks for your supppoort.
+
+  It's a shame that I have not set up the blog theme yet, I get distorbed by sth else. And I get really not realistic altitude about my own life, get drowned in the past. I need be real, even that means sth to ruin, fail. So, I decide to record sth about myself.
+
+  About the blog, in some level, it is a dream of mine, there is a place to write freely, which I have never been able to do since I go to middle school, whether not been allowed to or not been able to. Anyway, I write a lot already in my computer, I decide I should have a good place to do this.
+
+  Here are some priciples I set to myself:
+
+     1. Be really really honest to myself. If you don't admit sth, does it not exist? To yourself, what harm can be done by knowing the truth? So, be real, be free.
+
+     2. Aimed to future, live in now. The past is dead and burned, we live in every moment of now. So, work by now, love by now, change and pain by now.
+
+     3. Don't be sad and negetive. Tragedy and unfortrain are real, so does happiness and complishment. Once I said to Kaitlyn, it is all dream and mist that we live in, but what I didn't say is that, even though, it is important. It's true, our body is build by breath, and our city build by dream(Gibran), so, just make sure as you seek the trunth, look for the whole picture with not only the shadow, but also the brightness.
+
+     4. I should get work, now. Get organised, get simple and straight.
+* And One More Thing.
+
+  Only Those Who Every Day Fight for Life and Freedom Deserve It .
+
+  --By Johann Wolfgang von Goethe, Faust.

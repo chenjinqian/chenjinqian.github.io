@@ -1,0 +1,19 @@
+#+BEGIN_HTML
+---
+title: My Resume.
+excerpt: Some infomation of my work experience.
+featured: /assets/images/pic00.jpg
+categories:
+    - personal
+tags:
+    - profile
+layout: post
+---
+#+END_HTML
+#+STARTUP: showall
+#+STARTUP: hidestars
+* Experience and Resume
+    + profile
+      + Education
+      + Work Experiences.
+      + Skills
