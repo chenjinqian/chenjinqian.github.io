@@ -16,4 +16,4 @@ layout: post
     + profile
       + Education
       + Work Experiences.
-      + Skills
+      + Skill set.

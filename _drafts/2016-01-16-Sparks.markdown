@@ -1,0 +1,30 @@
+---
+title: How I build this blog.
+excerpt: Step by step build this blog.
+featured: /assets/images/pic00.jpg
+categories:
+    - jekyll
+tags:
+    - org
+    - jekyll
+    - blog
+layout: post
+---
+<p>
+1 Sparks of my own brain.
+2 self-see concerns
+2.1 the failture comes over and over again
+</p>
+
+<p>
+Here is what happend last three days. 12/01/2014, I lose my control to fake pleasure, and get really tired. I get headace the day after, and I amolst fall asleep when I was on the train back after the end of work, not notice that I get the wrong train. When I finally realise that, I make a mistake again getting into the next train right before the door close which turns out to be wrong again. This night, I sleep really early, no playing cellphone which is right beside me. I was full of energy the next day, 12/03/2014, yestoday. I went the old way before I notice, and sleep really late. I thought I have proved my perseverance, so I lost my will to do it. What a irony, people always think they can tell themself what is right and what is wrong, what they should do, make up a plan, and use their plan to get things done. How much I can read if I read 20 pages per day, only if I can learn France, so on and on. … I got up late and miss the train because I was reading, when I notice it, I went to the left door, end up wondering why the door is not open yet. What an idiolt. When I was siting in a chair, after I finally get down the train, I was thinking, why failture happens over and over again? People need energy to do thing right,
+</p>
+
+<p>
+919969102
+3 interesting ideas
+</p>
+
+<p>
+3D movment recorder, FROM TED, not supper conduct.
+</p>

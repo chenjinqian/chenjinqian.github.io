@@ -6,25 +6,24 @@ featured: /assets/images/pic00.jpg
 categories:
     - tech
 tags:
-    - org mode
-    - emacs
+    - org-mode
     - jekyll
 layout: post
 ---
 #+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
-** Summery
-   In ths blog I will show how I build this blog step by step, also the problems I encountered during this process. Hope it will be helpfull to those who want to do the same thing.
+* Summary
 
-   I heard about github blog page and jekyll suport, as I already use org-mod with emacs, I chose this solution. Hope I can have a good experience in writing.
+  In ths blog I will show how I build this blog step by step, also the problems I encountered during this process. Hope it will be helpfull to those who want to do the same thing.
 
-** System and tools
+  I heard about github blog page and jekyll suport, as I already use org-mod with emacs, I chose this solution. Hope I can have a good experience in writing.
+
+** System and Tools
       I use github.com as my blog host.
       + Operating System : ubuntu 15.04
       + Tools : emacs, org-mod, jekyll(depends on ruby), github .
-      + Reference : [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][org-jekyll-tutorials]], and [[http://cheukyin.github.io][cheukyin's blog]]
-      + Templates : Mark-Reid
+      + Reference : [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][org-jekyll-tutorials]], and template from [[https://github.com/jekyllbootstrap/theme-mark-reid][Mark-Reid]].
 ** Step by Step
    1. Setup github reponsity
    2. Install jekyll and configuration.
@@ -60,7 +59,7 @@ layout: post
       (load-file "~/pro/n-txt/blog/cjq.io/_org/init-org-jekyll.el")
       #+END_SRC
 
-      this file can be find in my github [[https://github.com/chenjinqian/chenjinqian.github.com][repo]].
+      this file can be find in my github [[https://github.com/chenjinqian/chenjinqian.github.io][repo]].
 
    3. use command org-publish in emacs, and chose post method cjq.io
    4. start jekyll at the blog root folder, with command
@@ -73,25 +72,27 @@ layout: post
       [jekyll server --watch]({{ site.url }}/assets/images/pic-jw.png)
       ![My helpful screenshot]({{ site.url }}/assets/images/pic-banner.jpg)
       #+END_SRC
-      #+BEGIN_MARKDOWN
-      [jekyll server]({{ site.url }}/assets/images/pic-jw.png)
-      ## here another.
-      #+END_MARKDOWN
       Here is another try
       #+BEGIN_HTML
       <img src="{{ site.url }}/assets/images/pic-jw.png" alt="The jekyll building."/>
       #+END_HTML
       And here is a [[http://codingtips.kanishkkunal.in/image-caption-jekyll/][link]] about using include and images. Will check latter.
 
+      **And this is bold letters.**
+
 ** ToDo items
-   + GTD with ORG
-   + Checkout to use org-md-export-to-markdown method.
-   + How to add up a picture? with right href. No working right now.
-   + I will change the main menu option of this blog.
-   + I will add a side bar, and see how is the effect.
-   + My org mod do not do it right with org-tables, maybe it have some thing to do with the emacs theme I use now.
-   + Tweat my own index.html pages.
-   + Change the color theme, use grey in the code areo.
-   + More blogs, on resume, poem, game and book sharing, and some other things.
-   + And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
-   + use the simplest themes, and make it works first. You are like a fool..
+
+   1. GTD with ORG
+   2. Checkout to use org-md-export-to-markdown method.
+   3. How to add up a picture? with right href. No working right now.
+   4. I will change the main menu option of this blog.
+   5. I will add a side bar, and see how is the effect.
+   6. My org mod do not do it right with org-tables, maybe because my emacs theme.
+   7. Tweat my own index.html pages.
+   8. Change the color theme, use grey in the code areo.
+   9. More blogs, on resume, poem, game and book sharing, and some other things.
+   10. And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
+   11. Use the simplest themes, and make it works first. You are like a fool..
+   12. Clean template.
+   13. Move name and date to the begining of the post.
+   14. Add a button to move to the topest position.

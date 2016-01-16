@@ -9,7 +9,6 @@ tags:
     - record
 layout: post
 ---
-
 <div id="outline-container-sec-1" class="outline-2">
 <h2 id="sec-1"><span class="section-number-2">1</span> About Me</h2>
 <div class="outline-text-2" id="text-1">
@@ -23,6 +22,10 @@ I want to have a personal blog, where I can write something freely.
 
 <p>
 This should be a free land, of my own control. I used to dream of such place .
+</p>
+
+<p>
+No one can walk away from his own story.     &#x2013;By Jango.
 </p>
 </div>
 </div>
@@ -60,7 +63,7 @@ Here are some priciples I set to myself:
 <li>Don't be sad and negetive. Tragedy and unfortrain are real, so does happiness and complishment. Once I said to Kaitlyn, it is all dream and mist that we live in, but what I didn't say is that, even though, it is important. It's true, our body is build by breath, and our city build by dream(Gibran), so, just make sure as you seek the trunth, look for the whole picture with not only the shadow, but also the brightness.
 </li>
 
-<li>I should get work, now. Get organised, get simple and straight.
+<li>I should get work, now. Get organised, get simple and straight forward.
 </li>
 </ol>
 </div>

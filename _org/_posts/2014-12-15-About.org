@@ -11,7 +11,8 @@ tags:
 layout: post
 ---
 #+END_HTML
-
+#+STARTUP: showall
+#+STARTUP: hidestars
 * About Me
 
    I am JinQian Chen. This is my place record some thing in my life. Such as personal articles, book list, technique blogs. Hopefully, something here will be helpfull, that will be unexpected benefit.
@@ -40,7 +41,7 @@ layout: post
 
      3. Don't be sad and negetive. Tragedy and unfortrain are real, so does happiness and complishment. Once I said to Kaitlyn, it is all dream and mist that we live in, but what I didn't say is that, even though, it is important. It's true, our body is build by breath, and our city build by dream(Gibran), so, just make sure as you seek the trunth, look for the whole picture with not only the shadow, but also the brightness.
 
-     4. I should get work, now. Get organised, get simple and straight.
+     4. I should get work, now. Get organised, get simple and straight forward.
 * And One More Thing.
 
   Only Those Who Every Day Fight for Life and Freedom Deserve It .
