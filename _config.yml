@@ -1,0 +1,13 @@
+# Site settings
+title: Blog of ChenJinQian
+email: 2012chenjinqian@gmail.com
+description: "Here is my personal blog, it is my own kingdom.
+I am ChenJinQian. Here I am, here I speak."
+baseurl: ""
+url: "http://chenjinqian.github.io"
+twitter_username: chenjinqian
+github_username:  chenjinqian
+
+# Build settings
+markdown: kramdown
+permalink: pretty

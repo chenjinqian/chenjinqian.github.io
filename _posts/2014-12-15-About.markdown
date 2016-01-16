@@ -1,0 +1,79 @@
+---
+layout: post
+title: About
+excerpt: About me and why I setup this blog.
+categories:
+    - personal
+tags:
+    - poem
+    - record
+layout: post
+---
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> About Me</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+I am JinQian Chen. This is my place record some thing in my life. Such as personal articles, book list, technique blogs. Hopefully, something here will be helpfull, that will be unexpected benefit.
+</p>
+
+<p>
+I want to have a personal blog, where I can write something freely.
+</p>
+
+<p>
+This should be a free land, of my own control. I used to dream of such place .
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> About this Blog</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+This is my first personal page, and I will stay here for some more time.
+</p>
+
+<p>
+I will learn this today: org2blog, jekyll. and buildup the blog as much as I can. I will translate and store something about myself. About this blog, I wish one day, some one I'm interested in can find and get know me by this. …… and thanks for your supppoort.
+</p>
+
+<p>
+It's a shame that I have not set up the blog theme yet, I get distorbed by sth else. And I get really not realistic altitude about my own life, get drowned in the past. I need be real, even that means sth to ruin, fail. So, I decide to record sth about myself.
+</p>
+
+<p>
+About the blog, in some level, it is a dream of mine, there is a place to write freely, which I have never been able to do since I go to middle school, whether not been allowed to or not been able to. Anyway, I write a lot already in my computer, I decide I should have a good place to do this.
+</p>
+
+<p>
+Here are some priciples I set to myself:
+</p>
+
+<ol class="org-ol">
+<li>Be really really honest to myself. If you don't admit sth, does it not exist? To yourself, what harm can be done by knowing the truth? So, be real, be free.
+</li>
+
+<li>Aimed to future, live in now. The past is dead and burned, we live in every moment of now. So, work by now, love by now, change and pain by now.
+</li>
+
+<li>Don't be sad and negetive. Tragedy and unfortrain are real, so does happiness and complishment. Once I said to Kaitlyn, it is all dream and mist that we live in, but what I didn't say is that, even though, it is important. It's true, our body is build by breath, and our city build by dream(Gibran), so, just make sure as you seek the trunth, look for the whole picture with not only the shadow, but also the brightness.
+</li>
+
+<li>I should get work, now. Get organised, get simple and straight.
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> And One More Thing.</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Only Those Who Every Day Fight for Life and Freedom Deserve It .
+</p>
+
+<p>
+&#x2013;By Johann Wolfgang von Goethe, Faust.
+</p>
+</div>
+</div>
