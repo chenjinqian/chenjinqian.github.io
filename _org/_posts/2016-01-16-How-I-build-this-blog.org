@@ -13,11 +13,11 @@ layout: post
 #+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
-* Summary
+** Summary
 
-  In ths blog I will show how I build this blog step by step, also the problems I encountered during this process. Hope it will be helpfull to those who want to do the same thing.
+   In ths blog I will show how I build this blog step by step, also the problems I encountered during this process. Hope it will be helpfull to those who want to do the same thing.
 
-  I heard about github blog page and jekyll suport, as I already use org-mod with emacs, I chose this solution. Hope I can have a good experience in writing.
+   I heard about github blog page and jekyll suport, as I already use org-mod with emacs, I chose this solution. Hope I can have a good experience in writing.
 
 ** System and Tools
       I use github.com as my blog host.
@@ -92,7 +92,6 @@ layout: post
    8. Change the color theme, use grey in the code areo.
    9. More blogs, on resume, poem, game and book sharing, and some other things.
    10. And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
-   11. Use the simplest themes, and make it works first. You are like a fool..
-   12. Clean template.
    13. Move name and date to the begining of the post.
    14. Add a button to move to the topest position.
+   15. Add some robot proticol. And Python server scripts. Learn from others's examples.

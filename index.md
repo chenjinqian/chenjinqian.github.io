@@ -1,21 +1,19 @@
 ---
 layout: page
-title: Home page
+title: Home Page
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This is Home Page of JinQian Chen.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## About
 
-## Update Author Attributes
+I am ChenJinQian. Here is my personal blog.
 
-The Author is JinQian Chen.
+It is my own kingdom.  Here I am, here I speak.
 
 ## Recent Posts
-
-Here is the posts.
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -23,5 +21,10 @@ Here is the posts.
   <p>{{ post.excerpt }}</p>
   {% endfor %}
 </ul>
+
+## Links 
+[Github](https://github.com/chenjinqian)
+[Email](mailto:2012chenjinqian@gmail.com)
+
 
 
