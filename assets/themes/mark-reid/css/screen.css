@@ -231,8 +231,8 @@ ul.compact li a {
 	display: inline;
 }
 #header ul li a:hover {
-	color: green;
-	border-bottom: 2px solid green;
+	color: blue;
+	border-bottom: 2px solid blue;
 }
 #header .byline {
 	color: silver;

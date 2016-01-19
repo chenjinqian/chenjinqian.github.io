@@ -1,17 +1,14 @@
 ---
 layout: page
 title: Home Page
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This is Home Page of JinQian Chen.
+This is Home Page of JinQian Chen. This blog is powered by Jekyll, and hosted on github page.
 
 ## About
 
-I am ChenJinQian. Here is my personal blog.
-
-It is my own kingdom.  Here I am, here I speak.
+I am ChenJinQian. Here is my home page. This is the place where I will record and share things I have learn, and post some personal articles.
 
 ## Recent Posts
 
@@ -23,8 +20,8 @@ It is my own kingdom.  Here I am, here I speak.
 </ul>
 
 ## Links 
-[Github](https://github.com/chenjinqian)
-[Email](mailto:2012chenjinqian@gmail.com)
+[Github Page](https://github.com/chenjinqian)
+[My Email](mailto:2012chenjinqian@gmail.com)
 
 
 
