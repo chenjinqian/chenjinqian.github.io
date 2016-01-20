@@ -20,8 +20,8 @@ I am ChenJinQian. Here is my home page. This is the place where I will record an
 </ul>
 
 ## Links 
-[Github Page](https://github.com/chenjinqian)
-[My Email](mailto:2012chenjinqian@gmail.com)
+[Github](https://github.com/chenjinqian)
+[Email](mailto:2012chenjinqian@gmail.com)
 
 
 

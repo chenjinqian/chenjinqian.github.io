@@ -1,6 +1,6 @@
 ---
 title: How I build this blog.
-excerpt: Step by step build this blog.
+excerpt: Build blog on github page, using jekyll and emacs org mode,
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -31,7 +31,7 @@ I use github.com as my blog host.
 <ul class="org-ul">
 <li>Operating System : ubuntu 15.04
 </li>
-<li>Tools : emacs, org-mod, jekyll(depends on ruby), github .
+<li>Tools : emacs, org-mod, jekyll(depends on ruby), github.
 </li>
 <li>Reference : <a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">org-jekyll-tutorials</a>, and template from <a href="https://github.com/jekyllbootstrap/theme-mark-reid">Mark-Reid</a>.
 </li>
@@ -68,16 +68,11 @@ tree ~/dld/test-blog
 rake theme:install <span style="color: #9acd32;">git</span>=<span style="color: #bdb76b;">"git://github.com/jekyllbootstrap/theme-mark-reid.git"</span>
 </pre>
 </div>
-</li>
-</ol>
-
-
 <div class="org-src-container">
 
 <pre class="src src-sh">tree ~/pro/n-txt/blog/cjq.io/_org
 </pre>
 </div>
-
 <pre class="example">
 | /cjq.io/_org
 | ├──   _drafts
@@ -96,43 +91,57 @@ Another file is init-org-jekyll.el, which control the options of org-publish. It
 <pre class="src src--emacs-lisp">(load-file "~/pro/n-txt/blog/cjq.io/_org/init-org-jekyll.el")
 </pre>
 </div>
+</li>
 
-<p>
-this file can be find in my github <a href="https://github.com/chenjinqian/chenjinqian.github.io">repo</a>.
-</p>
-
-<ol class="org-ol">
 <li>use command org-publish in emacs, and chose post method cjq.io
 </li>
-<li>start jekyll at the blog root folder, with command
+
+<li>start jekyll server, with command
 <div class="org-src-container">
 
 <pre class="src src-sh">jekyll server --watch
 </pre>
 </div>
 <p>
+The current work directory should be the root of the site. Otherwise, jekyll will complain about folders not find.
 Now it should be some thing like this:
-Here is the ref on the official site, but not work, as far as for now.
-</p>
-<pre class="example">
-[jekyll server --watch]({{ site.url }}/assets/images/pic-jw.png)
-![My helpful screenshot]({{ site.url }}/assets/images/pic-banner.jpg)
-</pre>
-<p>
-Here is another try
 </p>
 <img src="{{ site.url }}/assets/images/pic-jw.png" alt="The jekyll building."/>
 <p>
-And here is a <a href="http://codingtips.kanishkkunal.in/image-caption-jekyll/">link</a> about using include and images. Will check latter.
+The command is a little different in this jekyll version.
+The &#x2013;watch parameter is to tell jekyll once there is any change in the project, apply it to the _site. With this option,
+you can see the change in brower immediatly, without restart the server. But it seems the changes in _config.yaml need restart.
+</p>
+</li>
+
+<li>Use images, code lines and bold text
+I put this lines in my org file, and put pic-jw.png in the _org/assets/images/ folder.
+<pre class="example">
+#+BEGIN_HTML
+&lt;img src="{{ site.url }}/assets/images/pic-jw.png" alt="The jekyll building."/&gt;
+#+END_HTML
+</pre>
+<p>
+The result is last picture.
 </p>
 
 <p>
-<b><b>And this is bold letters.</b></b>
+Ref to <a href="http://codingtips.kanishkkunal.in/image-caption-jekyll/">this</a> about using include and images.
+The code lines can be surounded by '#+BEGIN_SRC' and '#+END_SRC' tags.
+You can just put something like this in org file,
+</p>
+<pre class="example">
+**This is bold letters.**
+</pre>
+<p>
+The result is bold text like this:
+<b><b>This is bold letters.</b></b>
 </p>
 </li>
 </ol>
 </div>
 </div>
+
 
 <div id="outline-container-sec-5" class="outline-2">
 <h2 id="sec-5"><span class="section-number-2">5</span> ToDo items</h2>
@@ -165,5 +174,14 @@ And here is a <a href="http://codingtips.kanishkkunal.in/image-caption-jekyll/">
 <li>Add some robot proticol. And Python server scripts. Learn from others's examples.
 </li>
 </ol>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> My repo link</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<a href="https://github.com/chenjinqian/chenjinqian.github.io">https://github.com/chenjinqian/chenjinqian.github.io</a>
+</p>
 </div>
 </div>
