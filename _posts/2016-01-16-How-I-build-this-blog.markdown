@@ -1,6 +1,6 @@
 ---
 title: How I build this blog.
-excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only.
+excerpt: Build blog on github page, using jekyll and emacs org mode,
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -151,9 +151,13 @@ The result is bold text like this:
 </li>
 <li>Checkout to use org-md-export-to-markdown method.
 </li>
+<li>How to add up a picture? with right href. No working right now.
+</li>
 <li>I will change the main menu option of this blog.
 </li>
 <li>I will add a side bar, and see how is the effect.
+</li>
+<li>My org mod do not do it right with org-tables, maybe because my emacs theme.
 </li>
 <li>Tweat my own index.html pages.
 </li>
@@ -163,7 +167,7 @@ The result is bold text like this:
 </li>
 <li>And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
 </li>
-<li>Move name and date to the begining of the post. Like one template does.
+<li>Move name and date to the begining of the post.
 </li>
 <li>Add a button to move to the topest position.
 </li>

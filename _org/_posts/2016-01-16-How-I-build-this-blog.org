@@ -1,7 +1,7 @@
 #+BEGIN_HTML
 ---
 title: How I build this blog.
-excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only.
+excerpt: Build blog on github page, using jekyll and emacs org mode,
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -95,15 +95,17 @@ layout: post
 
    1. GTD with ORG
    2. Checkout to use org-md-export-to-markdown method.
-   3. I will change the main menu option of this blog.
-   4. I will add a side bar, and see how is the effect.
-   5. Tweat my own index.html pages.
-   6. Change the color theme, use grey in the code areo.
-   7. More blogs, on resume, poem, game and book sharing, and some other things.
-   8. And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
-   9. Move name and date to the begining of the post. Like one template does.
-   10. Add a button to move to the topest position.
-   11. Add some robot proticol. And Python server scripts. Learn from others's examples.
+   3. How to add up a picture? with right href. No working right now.
+   4. I will change the main menu option of this blog.
+   5. I will add a side bar, and see how is the effect.
+   6. My org mod do not do it right with org-tables, maybe because my emacs theme.
+   7. Tweat my own index.html pages.
+   8. Change the color theme, use grey in the code areo.
+   9. More blogs, on resume, poem, game and book sharing, and some other things.
+   10. And I will TRANSLATE the learning english in six mouth and reorganise it in my post.
+   13. Move name and date to the begining of the post.
+   14. Add a button to move to the topest position.
+   15. Add some robot proticol. And Python server scripts. Learn from others's examples.
 
 ** My repo link
 
