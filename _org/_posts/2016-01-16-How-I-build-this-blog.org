@@ -104,6 +104,7 @@ layout: post
    9. Move name and date to the begining of the post. Like one template does.
    10. Add a button to move to the topest position.
    11. Add some robot proticol. And Python server scripts. Learn from others's examples.
+   12. more posts.
 
 ** My repo link
 
