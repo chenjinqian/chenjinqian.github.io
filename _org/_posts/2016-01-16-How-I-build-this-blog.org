@@ -1,7 +1,7 @@
 #+BEGIN_HTML
 ---
 title: How I build this blog.
-excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only. Now add up jekyll 3.
+excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only.
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -106,6 +106,7 @@ layout: post
    10. Add a button to move to the topest position.
    11. Add some robot proticol. And Python server scripts. Learn from others's examples.
    12. more posts.
+   13. Now github support jekyll 3, which is supposed to be more simple and fast, except I have not try it yet.
 
 ** My repo link
 

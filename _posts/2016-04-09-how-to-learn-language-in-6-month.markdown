@@ -6,6 +6,7 @@ categories:
     - tech
 tags:
     - record
+    - TED
 layout: post
 ---
 <div id="outline-container-sec-1" class="outline-2">

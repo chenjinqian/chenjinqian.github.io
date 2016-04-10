@@ -1,6 +1,6 @@
 ---
 title: How I build this blog.
-excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only. Now add up jekyll 3.
+excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only.
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -172,6 +172,8 @@ The result is bold text like this:
 <li>Add some robot proticol. And Python server scripts. Learn from others's examples.
 </li>
 <li>more posts.
+</li>
+<li>Now github support jekyll 3, which is supposed to be more simple and fast, except I have not try it yet.
 </li>
 </ol>
 </div>
