@@ -1,19 +1,20 @@
 #+BEGIN_HTML
 ---
-title: How to learn any language in 6 months.
-excerpt: I have watch this on TED, really interesting and helpfull. So here it is. How to learn any language in six months: Chris Lonsdale.
+layout: post
+title: How to learn any language in six months, by Chris Lonsdale. eng-ch
+excerpt: Some really interesting talk about language learning in TED. With Chinese translation.
 categories:
-    - lessons
+    - tech
 tags:
-    - language
+    - record
 layout: post
 ---
 #+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
-# -*- coding:utf-8 -*-
-* How to learn any language in six months: Chris Lonsdale
-如何在 6 个月内学会任何外语:龙飞虎
+** How to learn any language in six months: Chris Lonsdale2
+
+ 如何在 6 个月内学会任何外语:龙飞虎
 
 Have you ever held a question in mind for so long that it becomes part of how you think?
 你是否曾经把一个问题留在心中很久, 结果它已经成为你的一种思考习惯?
@@ -26,57 +27,40 @@ Now, this is an interesting question because if you speed up learning you can sp
 school.
 这是一个很有趣的问题,因为如果你可以加快自己的学习的速度,你就可以在学校里花更少时间。
 And if you learn really fast, you probably wouldn’t have to go to school at all.
-如果你能真的学得特别快,你可能根本就不用去上学。
+如果你真的能学得特别快,你可能根本就不用去上学。
 
-Now, when I was young, school was sort of okay but I found quite often that school got in the way of
-learning so I had this question in mind: how do you learn faster?
-在我小时候,上学还凑合,但我常常发现上学会阻碍学习,因此在心里面我有了这样一个问题:
-怎样才能学得更快呢?
+Now, when I was young, school was sort of okay but I found quite often that school got in the way of learning so I had this question in mind: how do you learn faster?
+在我小时候,上学还凑合,但我常常发现上学会阻碍学习,因此在心里面我有了这样一个问题: 怎样才能学得更快呢?
 
-And this began when I was very, very young. When I was about eleven years old I wrote a letter to
-researchers in the Soviet Union, asking about hypnopaedia, this is sleep learning, where you get a
-tape recorder, you put it beside your bed and it turns on in the middle of the night when you’re
-sleeping, and you’re supposed to be learning from this.
+And this began when I was very, very young. When I was about eleven years old I wrote a letter to researchers in the Soviet Union, asking about hypnopaedia, this is sleep learning, where you get a
+tape recorder, you put it beside your bed and it turns on in the middle of the night when you’re sleeping, and you’re supposed to be learning from this.
 (这个想法)在我很小时候已经开始了,大约 11 岁的时候,我给前苏联的研究者写了一封信, 讨论关于睡眠学习的理论。 所谓“睡眠学习”, 就是拿一个磁带录音机放在你床边, 在你睡着时机器开始播放磁带,(然后)目的是通过这种方式来学习。
 
 A good idea, unfortunately it doesn’t work.
 这是一个好主意,不幸的是，它是行不通的。
-But, hypnopaedia did open the doors to research in other areas and we’ve had incredible
-discoveries about learning that began with that first question.
-但睡眠学习确实打开了研究其他领域的大门, 并且我们从研究这个问题开始已经有了一些惊人的
-发现。
+But, hypnopaedia did open the doors to research in other areas and we’ve had incredible discoveries about learning that began with that first question.
+但睡眠学习确实打开了研究其他领域的大门, 并且我们从研究这个问题开始已经有了一些惊人的发现。
 
-I went on from there to become passionate about psychology and I have been involved in
-psychology in many ways for the rest of my life up until this point.
-从那开始我对心理学充满热情,直到现在我已经投入了几十年的时间从事心理学相关的不同研究
-和工作。
+I went on from there to become passionate about psychology and I have been involved in psychology in many ways for the rest of my life up until this point.
+从那开始我对心理学充满热情,直到现在我已经投入了几十年的时间从事心理学相关的不同研究和工作。
 In 1981 I took myself to China and I decided that I was going to be native level in Chinese inside two years.
 1981 年,我来到了中国,并且决定要在两年内使我的汉语达到像中文母语者一样的水平。
 
-Now, you need to understand that in 1981, everybody thought Chinese was really, really difficult
-and that a westerner could study for ten years or more and never really get very good at it.
-呐,你需要明白的是在 20 世纪 80 年代初,所有人都认为汉语是真的很难学,一个西方人可能学
-习 10 年或更久也未必能学好。
+Now, you need to understand that in 1981, everybody thought Chinese was really, really difficult and that a westerner could study for ten years or more and never really get very good at it.
+呐,你需要明白的是在 20 世纪 80 年代初,所有人都认为汉语是真的很难学,一个西方人可能学习 10 年或更久也未必能学好。
 
 And I also went in with a different idea which was: taking all of the conclusions from psychological research up to that point and applying them to the learning process.
-还有,我带着一种不同的想法,就是把心理学对这个问题研究所得的全部结论运用到我学习的过
-程当中。
+还有,我带着一种不同的想法,就是把心理学对这个问题研究所得的全部结论运用到我学习的过程当中。
 
-What was really cool was that in six months I was fluent in Mandarin Chinese and took a little bit
-longer to get up to native.
+What was really cool was that in six months I was fluent in Mandarin Chinese and took a little bit longer to get up to native.
 特别棒的是我在六个月内能说流利的中文,不久后,我达到了中文母语者的水平。
 
-But I looked around and I saw all of these people from different countries struggling terribly with
-Chinese, I saw Chinese people struggling terribly to learn English and other languages, and so my
-question got refined down to: how can you help a normal adult learn a new language quickly, easily and effectively?
-但我看到周围那些来自不同国家的人在为学习中文苦苦挣扎,中国人在为学习英文或其他语言苦
-苦挣扎,因此我的问题便细化到:怎样帮助一位正常的成年人更快、更容易和有效地学会第二门
-语言。
+But I looked around and I saw all of these people from different countries struggling terribly with Chinese, I saw Chinese people struggling terribly to learn English and other languages, and so my question got refined down to: how can you help a normal adult learn a new language quickly, easily and effectively?
+但我看到周围那些来自不同国家的人在为学习中文苦苦挣扎,中国人在为学习英文或其他语言苦苦挣扎,因此我的问题便细化到:怎样帮助一位正常的成年人更快、更容易和有效地学会第二门语言。
 Now this is a really, really important question in today’s world.
 要强调的是,在今天的世界里这是一个非常非常重要的问题。
 We have massive challenges with environment. We have massive challenges with social dislocation, with wars, all sorts of things going on and if we can’t communicate we’re really going to have difficulty solving these problems.
-我们需要面对大量的(有关)环保问题的挑战,我们需要面对很多社会混乱和战争的挑战,各种
-各样的事情在发生,如果我们不能沟通那我们将难以解决这些问题。
+我们需要面对大量的(有关)环保问题的挑战,我们需要面对很多社会混乱和战争的挑战,各种各样的事情在发生,如果我们不能沟通那我们将难以解决这些问题。
 
 So we need to be able to speak each other’s languages. This is really, really important.
 因此,我们需要能够说对方的语言。这真的非常重要。
@@ -89,11 +73,9 @@ It’s called modeling and I’ve been looking at language learning and modeling
 And my conclusion, my observation from this is that any adult can learn a second language to fluency inside six months.
 通过多年的观察,我得到的结论是, 一个成年人能够在 6 个月内把任何外语学得流利。
 
-Now when I say this, most people think I’m crazy, this is not possible. So let me remind everybody
-of the history of human progress, it’s all about expanding our limits.
+Now when I say this, most people think I’m crazy, this is not possible. So let me remind everybody of the history of human progress, it’s all about expanding our limits.
 呐,当我说成年人能在 6 个月内学会任何一种外语,大多数人都认为我疯了,这是不可能的。因此,先让我提醒在座各位关于人类历史的进展,所有人类历史都是在扩展我们的极限。
-In 1950 everybody believed that running one mile in four minutes was impossible and then Roger
-Bannister did it in 1956 and from there it’s got shorter and shorter.
+In 1950 everybody believed that running one mile in four minutes was impossible and then Roger Bannister did it in 1956 and from there it’s got shorter and shorter.
 在 20 世纪 50 年代,所有人都相信跑出 4 分钟 1 英里的成绩是不可能的,后来罗杰·班尼斯特在1965 年做到了,而从那开始跑 1 英里的时间变得越来越短 。
 
 100 years ago everybody believed that heavy stuff doesn’t fly.
@@ -126,11 +108,9 @@ Now I know this is true because that was my first drawing and after five days of
 principles that was what I was able to do.
 我知道这是真的,因为那是我第一次画的,5 天后我应用了这些原则,我可以做到这样。
 
-And I looked at this and I went ‘wow,’ so that’s how I look like when I’m concentrating so intensely
-that my brain is exploding.
+And I looked at this and I went ‘wow,’ so that’s how I look like when I’m concentrating so intensely that my brain is exploding.
 当我看着这个,我“哇”了一声,那就是我非常强烈的,专注到我大脑快要爆炸的样子呀!
-So, anybody can learn to draw in five days and in the same way, with the same logic, anybody can
-learn a second language in six months.
+So, anybody can learn to draw in five days and in the same way, with the same logic, anybody can learn a second language in six months.
 因此,任何人都能够用 5 天时间学会画画,同样地,用同样的方式和逻辑,任何人都可以在 6 个月内学会一门外语。
 
 How: there are five principles and seven actions.
@@ -211,17 +191,15 @@ And one night we had a crisis.
 We had forty eight hours to deliver a training manual in Chinese.
 我们有 48 个小时来准备用中文发表一本训练手册。
 
- And she got the job, and I can guarantee you in forty eight hours, she learned to type Chinese
-because it was relevant, it was important, it was meaningful, she was using a tool to create value.
-她承接了这个任务 ,并且我可以像你保证,在 48 个小时内,她学会了用中文打字。因为这是相关的、重要的、有意义的,她在使用一种工具来创造价值。
+And she got the job, and I can guarantee you in forty eight hours, she learned to type Chinese because it was relevant, it was important, it was meaningful, she was using a tool to create value.
+她承担这个任务 ,我可以向你保证,在 48 个小时内,她学会了用中文打字。因为这是相关的、重要的、有意义的,她在使用一种工具来创造价值。
 
 So the second tool for learning a language is to use your language as a tool to communicate right from day one. As a kid does.
-因此,学习一门语言的第二个工具是从第一天开始,用你的语言作为一种工具来沟通,像一个孩子那样做。
+因此,学习一门语言的第二个工具，是从第一天开始就用所学的语言作为工具来沟通,像一个孩子那样做。
 
 When I first arrived in China I didn’t speak a word of Chinese, and on my second week I got to take a train ride overnight.
 当我初次来到中国,我一句中文都不会说。第二个星期我乘坐火车过夜。
-I spent eight hours sitting in the dining car talking to one of the guards on the train。He took an interest in me for some reason, and we just chatted all night in Chinese and he was drawing pictures and making movements with his hands and facial expressions and piece by piece by piece I
-understood more and more.
+I spent eight hours sitting in the dining car talking to one of the guards on the train。He took an interest in me for some reason, and we just chatted all night in Chinese and he was drawing pictures and making movements with his hands and facial expressions and piece by piece by piece I understood more and more.
 我花了 8 个小时,坐在餐车,跟一位乘警聊。因为某种原因,他对我很感兴趣。我们在那用中文聊了一整夜,随着他画画、比划双手并动用他的面部表情,我逐渐地明白越来越多。
 But what was really cool, was two weeks later, when people were talking Chinese around me, I was understanding some of this and I hadn’t even made any effort to learn that.
 但是真正有趣的是,两个星期后,当人们在我周围说中文的时候,我可以明白一些了。而且我并没有为之付出任何努力。
@@ -237,13 +215,13 @@ The purple bars show the scores on different tests for language.
 The purple people were people who had learned by grammar and formal study, the green ones are the ones who learned by comprehensible input.
 紫色代表那些通过正式学习和学习语法的人,绿色的代表那些通过可明白输入学习的人。
 
- So, comprehension works.
+So, comprehension works.
 因此,理解是起作用的。
 
 Comprehension is key and language learning is not about accumulating lots of knowledge.
-理解是关键,而学语言本身不仅仅是积累大量的知识。
+理解是关键,学语言本身不仅仅是积累大量的知识。
 In many, many ways it’s about physiological training.
-在很多很多方面,是一种生理的训练。
+在很多方面,更是一种生理的训练。
 A woman I know from Taiwan did great at English at school, she got A grades all the way through, went through college, A grades, went to the US and found she couldn’t understand what people were saying.
 我认识的一位来自台湾的女士,上学时英文成绩很好,大学英语也很优秀。后来,她到了美国,竟然发现自己听不懂别人在说什么。
 And people started asking her: ‘are you deaf?’ and she was.
@@ -367,8 +345,7 @@ simple pronouns, simple nouns, simple verbs, simple adjectives, communicating li
 And by the third or fourth week, you’re getting into what I call glue words.
 然后第三或第四周,你会进入我称为“胶水词”的这部分。
  ‘Although,’ ‘but,’ ‘therefore,’ these are logical transformers that tie bits of a language together, allowing you to make more complex meaning.
-“虽然”、“但是”、“因此”,这些逻辑工具帮助你把语言的小块紧密地结合在一起,让你制
-造更多复杂的意思。
+“虽然”、“但是”、“因此”,这些逻辑工具帮助你把语言的小块紧密地结合在一起,让你制造更多复杂的意思。
 At that point you’re talking.
 在那个阶段,你已经进入说话的阶段了! 。
 And when you’re doing that, you should get yourself a language parent.
@@ -376,8 +353,7 @@ And when you’re doing that, you should get yourself a language parent.
 If you look at how children and parents interact, you’ll understand what this means.
 如果你看看孩子和父母之间的互动,你会明白这个什么意思的。
 When a child is speaking, it’ll be using simple words, simple combinations, sometimes quite strange, sometimes very strange pronunciation and other people from outside the family don’t understand it.
-当一个孩子说话,它会用简单的词,简单的组合,而有时候会发生奇怪甚至是非常怪的声音,如
-果不是家里人根本就不懂它在说什么。
+当一个孩子说话,它会用简单的词,简单的组合,而有时候会发生奇怪甚至是非常怪的声音,如果不是家里人根本就不懂它在说什么。
 But the parents do.
 但是父母却知道。
 And so the kid has a safe environment, gets confidence.
@@ -398,8 +374,7 @@ But the four rules are, first of all, they will work hard to understand what you
 Secondly, they will never correct your mistakes.
 第二,他们从来不会纠正你的错误。
 Thirdly they will feed back their understanding of what you are saying so you can respond appropriately and get that feedback and then they will use words that you know.
-第三,他们会理解你说的话并给出反馈,好让你适当地回应并获得反馈,并且他们也是说你知道
-的单词。
+第三,他们会理解你说的话并给出反馈,好让你适当地回应并获得反馈,并且他们也是说你知道的单词。
 
 The sixth thing you have to do, is copy the face.
 第六件事你需要做的就是模仿面部表情。
@@ -408,8 +383,7 @@ You’ve got to get the muscles working right, so you can sound in a way that pe
 There’s a couple of things you do.
 达到此目的,你需要做几件事情。
 One is that you hear how it feels, and feel how it sounds which means you have a feedback loop operating in your face, but ideally if you can look at a native speaker and just observe how they use their face, let your unconscious mind absorb the rules, then you’re going to be able to pick it up.
-第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。如果条件理想的话,
-你可以看着母语者并观察他们的面部,让你下意识地吸收这些规则,然后你将能够获取到它。
+第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。如果条件理想的话,你可以看着母语者并观察他们的面部,让你下意识地吸收这些规则,然后你将能够获取到它。
 And if you can’t get a native speaker to look at, you can use stuff like this: [slides].
 如果你没有母语者可以看着学习的话,你可以用像这样的东西。(pic )
 
@@ -418,7 +392,8 @@ And the final idea here, the final action you need to take is something that I c
 What does this mean?
 什么意思呢?
 Well most people learning a second language sort of take the mother tongue words and take the target words and go over them again and again in their mind to try and remember them.
-大多数人学习外语几乎都是用母语的单词对照目标语言,反复地在心中念并尝试记住它们。Really inefficient.
+大多数人学习外语几乎都是用母语的单词对照目标语言,反复地在心中念并尝试记住它们。
+Really inefficient.
 这样做效率真的很低。
 What you need to do is realize that everything you know is an image inside your mind, it’s feelings.
 你需要做的是意识到所有你知道的事情，在你的脑海里都是一种画面和感觉。
@@ -444,5 +419,6 @@ Thank you.
 谢谢。
 
 Reference:
+
 [[http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si][How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity]]
 [[http://www.kungfuenglish.com/page/618][Chris Lonsdale 龙飞虎介绍，功夫英语]]

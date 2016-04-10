@@ -16,11 +16,7 @@ Have you ever held a question in mind for so long that it becomes  part of how y
 even part of who you are as a person?  Well I’ve had a question in my mind for many, many years
 and that is: how can you speed up learning?  Now, this is an interesting question because  if you
 speed up learning you can spend less time at school.  And if you learn really fast, you probably
-wouldn’t  have to go to school at all.
-</p>
-
-<p>
-Now, when I was young, school was sort of okay but I found
+wouldn’t  have to go to school at all.  Now, when I was young, school was sort of okay but I found
 quite often that school got in the way of learning, so I had this question in mind: how do you learn
 faster? And this began when I was very, very young, when I was about eleven years old I wrote a
 letter to researchers in the Soviet Union, asking about hypnopaedia, this is sleep learning, where
@@ -28,9 +24,6 @@ you get a tape recorder, you put it beside your bed and it turns on in the middl
 you’re sleeping, and you’re supposed to be learning from this. A good idea, unfortunately it doesn’t
 work.  But, hypnopaedia did open the doors to research in other areas and we’ve had incredible
 discoveries about learning that began with that first question.
-</p>
-
-<p>
 I went on from there to become passionate about psychology and I have been involved in
 psychology in many ways for the rest of my life up until this point. In  1981 I took myself to China
 and I decided  that I was going to be native level in Chinese  inside two years. Now, you need to
@@ -53,9 +46,6 @@ about fifteen  to twenty years now.  And my conclusion, my observation from this
 can learn a second language to fluency  inside six months.  Now when I say this, most people think
 I’m crazy, this is not possible.  So  let me remind everybody of the history  of human progress, it’s all
 about expanding our limits.
-</p>
-
-<p>
 In 1950 everybody believed that running  one mile in four minutes  was impossible and then Roger
 Bannister did it in 1956 and from there it’s got shorter  and shorter.  100 years ago everybody
 believed  that heavy stuff doesn’t  fly.  Except it does and we all know this. How does heavy stuff fly?
@@ -71,9 +61,6 @@ and apply them and after five days you can draw something like this. Now I know 
 because that was my first drawing  and after five days of applying these principles that was what I
 was able to do.  And I looked at this and I went ‘wow,’ so that’s how I look like when I’m
 concentrating so intensely that my brain is exploding.
-</p>
-
-<p>
 So, anybody  can learn to draw in five days and in the same way, with the same logic, anybody  can
 learn a second language in six months.  How? There are five principles and seven actions.  There
 may be a few more but these are absolutely core. And before I get into those I just want to talk
@@ -89,9 +76,6 @@ Canada have been there ten, twenty year and they don’t speak any English.  Imm
 not work. Why? Because  a drowning man cannot learn to swim. When you don’t speak a language
 you’re like a baby and if you drop yourself into a context  which is all adults talking  about stuff over
 your head, you won’t learn.
-</p>
-
-<p>
 So, what are the five principles that you need to pay attention to? First: four words, attention,
 meaning,  relevance and memory,  and these interconnect in very important ways. Especially  when
 you’re talking  about learning.  Come with me on a journey  through  a forest.  You go on a walk
@@ -102,9 +86,6 @@ paying attention.  And you’ve just learned  that this is important, it’s rel
 and anything that is related, any information related  to your survival is stuff that you’re going to pay
 attention to and therefore you’re going to remember it.  If  it’s related  to your personal goals then
 you’re going to pay attention to it, if it’s relevant you’re going to remember it.
-</p>
-
-<p>
 So, the first rule, the first principle for learning a language is focus on language content  that is
 relevant  to you.  Which brings us to tools. We  master tools by using tools and we learn tools the
 fastest when they are relevant to us.  So  let me share a story. A keyboard is a tool. Typing Chinese  a
@@ -140,9 +121,6 @@ physiological training.  Speaking takes muscle.  You’ve got forty-­‐three m
 to coordinate those in a way that you make sounds that other people will understand.  If  you’ve ever
 done a new sport for a couple of days, and you know how your body feels? It  hurts. If  your face is
 hurting you’re doing it right.
-</p>
-
-<p>
 And the final principle is state. Psycho-­‐physiological state. If  you’re sad, angry, worried, upset,
 you’re not going to learn. Period.  If  you’re happy, relaxed, in an Alpha brain state, curious, you’re
 going to learn really quickly, and very specifically you need to be tolerant of ambiguity.  If  you’re one
@@ -151,16 +129,10 @@ because you’ll be incredibly upset all the time, because  you’re not perfect
 with getting  some, not getting  some, just paying attention to what you do understand, you’re going
 to be fine, you’ll be relaxed  and you’ll be learning quickly.  So  based on those five principles, what
 are the seven actions  that you need to take?
-</p>
-
-<p>
 Number one: listen a lot.  I call it Brain Soaking.  You put yourself in a context  where you’re hearing
 tons and tons of a language and it doesn’t  matter if you understand it or not.  You’re listening to the
 rhythms,  you’re listening to things that repeat,  you’re listening to things that stand out.  So, just soak
 your brain in this.
-</p>
-
-<p>
 The second action:  is that you get the meaning  first, even before you get the words. You go “Well
 how do I do that, I don’t know the words?”  Well, you understand what these different postures
 mean.  Human communication is body language in many, many ways, so much body language.  From
@@ -169,9 +141,6 @@ acquiring through  comprehensible input. And you can also use patterns that you 
 you’re a Chinese  speaker  of Mandarin and Cantonese and you go Vietnam, you will understand 60%
 of what they say to you in daily conversation, because  Vietnamese is about 30% Mandarin, 30%
 Cantonese.
-</p>
-
-<p>
 The third action:  start mixing.  You probably have never thought  of this but if you’ve got ten verbs,
 ten nouns and ten adjectives you can say one thousand different things.  Language is a creative
 process.  What do babies do?  Okay: Me.  Bat(h).  Now.  Okay, that’s how they communicate.  So  start
@@ -202,18 +171,12 @@ rules are, first of all, they will work hard to understand what you mean even wh
 beat.  Secondly, they will never correct  your mistakes.  Thirdly they will feedback their
 understanding of what you are saying so you can respond  appropriately and get that feedback and
 then they will use words that you know.
-</p>
-
-<p>
 The sixth thing you have to do, is copy the face. You got to get the muscles  working  right, so you can
 sound in a way that people will understand you.  There’s a couple of things you do.  One is that you
 hear how it feels, and feel how it sounds which means you have a feedback loop operating in your
 face, but ideally, if you can look at a native speaker  and just observe  how they use their face, let your
 unconscious mind absorb the rules, then you’re going to be able to pick it up.  And if you can’t get a
 native speaker  to look at, you can use stuff like this: [slides].
-</p>
-
-<p>
 And the final idea here, the final action you need to take is something that I call “direct  connect.”
 What does this mean? Well most people learning a second language sort of take the mother tongue
 words and take the target words and go over them again and again in their mind to try and
@@ -224,20 +187,10 @@ and you come out with another  pathway.  So  I call it ‘same box, different pa
 pathway,  you build it over time you become more and more skilled  at just connecting the new
 sounds to those images that you already  have, into that internal representation.  And over time you
 even become naturally good at that process, that becomes  unconscious.
-</p>
-
-<p>
 So, there are five principles that you need to work with, seven actions, if you do any of them, you’re
 going to improve.  And remember these are things under your control  as the learner.  Do  them all
 and you’re going to be fluent in a second language in six months.
-</p>
-
-<p>
 Thank you.
-</p>
-
-<p>
-Reference:
 </p>
 
 <p>

@@ -1,6 +1,6 @@
 ---
 title: How I build this blog.
-excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only.
+excerpt: Build blog on github page, using jekyll and emacs org mode, and forcus on the content only. Now add up jekyll 3.
 featured: /assets/images/pic00.jpg
 categories:
     - tech
@@ -34,6 +34,8 @@ I use github.com as my blog host.
 <li>Tools : emacs, org-mod, jekyll(depends on ruby), github.
 </li>
 <li>Reference : <a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">org-jekyll-tutorials</a>, and template from <a href="https://github.com/jekyllbootstrap/theme-mark-reid">Mark-Reid</a>.
+</li>
+<li>now jekyll3
 </li>
 </ul>
 </div>
