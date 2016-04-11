@@ -1,0 +1,248 @@
+---
+layout: post
+title: How to learn any language in six months, by Chris Lonsdale. eng
+excerpt: Some really interesting talk about language learning in TED.
+categories:
+    - tech
+tags:
+    - record
+layout: post
+---
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> How to learn any language in six months:  Chris Lonsdale</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Have you ever held a question in mind for so long that it becomes  part of how you think? Maybe
+even part of who you are as a person?  Well I’ve had a question in my mind for many, many years
+and that is: how can you speed up learning?  Now, this is an interesting question because  if you
+speed up learning you can spend less time at school.  And if you learn really fast, you probably
+wouldn’t  have to go to school at all.
+</p>
+
+<p>
+Now, when I was young, school was sort of okay but I found
+quite often that school got in the way of learning, so I had this question in mind: how do you learn
+faster? And this began when I was very, very young, when I was about eleven years old I wrote a
+letter to researchers in the Soviet Union, asking about hypnopaedia, this is sleep learning, where
+you get a tape recorder, you put it beside your bed and it turns on in the middle of the night when
+you’re sleeping, and you’re supposed to be learning from this. A good idea, unfortunately it doesn’t
+work.  But, hypnopaedia did open the doors to research in other areas and we’ve had incredible
+discoveries about learning that began with that first question.
+</p>
+
+<p>
+I went on from there to become passionate about psychology and I have been involved in
+psychology in many ways for the rest of my life up until this point. In  1981 I took myself to China
+and I decided  that I was going to be native level in Chinese  inside two years. Now, you need to
+understand that in 1981, everybody thought  Chinese  was really,  really difficult and that a westerner
+could study for ten years or more and never really get very good at it.  And I also went in with a
+different idea which was: taking all of the conclusions from psychological research up to that point
+and applying them to the learning process.  What was really cool was that in six months I was fluent
+in Mandarin Chinese  and took a little bit longer to get up to native.  But I looked around and I saw all
+of these people from different countries struggling terribly with Chinese, I saw Chinese  people
+struggling terribly to learn English  and other languages, and so my question got refined  down to:
+how can you help a normal adult learn a new language quickly, easily and effectively?  Now this a
+really, really important question in today’s  world. We  have massive  challenges with environment
+we have massive  challenges with social dislocation, with wars, all sorts of things going on and if we
+can’t communicate we’re really going to have difficulty solving  these problems.  So  we need to be
+able to speak each other’s  languages, this is really,  really important.  The question then is how do
+you do that. Well, it’s actually really easy. You look around for people who can already  do it, you
+look for situations where it’s already  working  and then you identify the principles and apply them.
+It’s called modelling and I’ve been looking  at language learning and modelling language learning for
+about fifteen  to twenty years now.  And my conclusion, my observation from this is that any adult
+can learn a second language to fluency  inside six months.  Now when I say this, most people think
+I’m crazy, this is not possible.  So  let me remind everybody of the history  of human progress, it’s all
+about expanding our limits.
+</p>
+
+<p>
+In 1950 everybody believed that running  one mile in four minutes  was impossible and then Roger
+Bannister did it in 1956 and from there it’s got shorter  and shorter.  100 years ago everybody
+believed  that heavy stuff doesn’t  fly.  Except it does and we all know this. How does heavy stuff fly?
+We reorganise the material using principles that we have learned  from observing nature,  birds in
+this case. And today we’ve gone ever further, so you can fly a car.  You can buy one of these for a
+couple hundred  thousand US dollars.  We  now have cars in the world that can fly.  And there’s  a
+different way to fly that we’ve learned  from squirrels.  So  all you need to do is copy what a flying
+squirrel  does, build a suit called a wing suit and off you go, you can fly like a squirrel.  Now, most
+people, a lot of people,  I wouldn’t say everybody but a lot of people think they can’t draw. However
+there are some key principles, five principles that you can apply to learning to draw and you can
+1actually learn to draw in five days. So, if you draw like this, you learn these principles for five days
+and apply them and after five days you can draw something like this. Now I know this is true
+because that was my first drawing  and after five days of applying these principles that was what I
+was able to do.  And I looked at this and I went ‘wow,’ so that’s how I look like when I’m
+concentrating so intensely that my brain is exploding.
+</p>
+
+<p>
+So, anybody  can learn to draw in five days and in the same way, with the same logic, anybody  can
+learn a second language in six months.  How? There are five principles and seven actions.  There
+may be a few more but these are absolutely core. And before I get into those I just want to talk
+about two myths, dispel two myths. The first is that you need talent.  Let me tell you about Zoe.  Zoe
+came from Australia, went to Holland, was trying to learn Dutch, struggling extremely &#x2026; a great deal
+and finally  people were saying:  ‘you’re  completely useless,’ ‘you’re  not talented,’ ‘give up,’ ‘you’re  a
+waste of time’ and she was very, very depressed.  And then she came across these five principles,
+she moved to Brazil and she applied  them and within six months she was fluent in Portuguese, so
+talent doesn’t  matter.  People also think that immersion in a new country  is the way to learn a
+language.  But look around Hong Kong, look at all the westerners who’ve been here for ten years,
+who don’t speak a word of Chinese.  Look at all the Chinese  living in America, Britain, Australia,
+Canada have been there ten, twenty year and they don’t speak any English.  Immersion per se does
+not work. Why? Because  a drowning man cannot learn to swim. When you don’t speak a language
+you’re like a baby and if you drop yourself into a context  which is all adults talking  about stuff over
+your head, you won’t learn.
+</p>
+
+<p>
+So, what are the five principles that you need to pay attention to? First: four words, attention,
+meaning,  relevance and memory,  and these interconnect in very important ways. Especially  when
+you’re talking  about learning.  Come with me on a journey  through  a forest.  You go on a walk
+through a forest and you see something like this. Little marks on a tree, maybe you pay attention,
+maybe you don’t. You go another  fifty metres and you see this. You should be paying attention.
+Another fifty metres,  if you haven’t  been paying attention, you see this. And at this point, you’re
+paying attention.  And you’ve just learned  that this is important, it’s relevant because  it means this,
+and anything that is related, any information related  to your survival is stuff that you’re going to pay
+attention to and therefore you’re going to remember it.  If  it’s related  to your personal goals then
+you’re going to pay attention to it, if it’s relevant you’re going to remember it.
+</p>
+
+<p>
+So, the first rule, the first principle for learning a language is focus on language content  that is
+relevant  to you.  Which brings us to tools. We  master tools by using tools and we learn tools the
+fastest when they are relevant to us.  So  let me share a story. A keyboard is a tool. Typing Chinese  a
+certain way, there are methods  for this. That’s a tool. I had a colleague many years ago who went to
+night school;  Tuesday  night, Thursday night, two hours each night, practicing at home, she spent
+nine months,  and she did not learn to type Chinese.  And one night we had a crisis.  We  had forty-­‐
+eight hours to deliver  a training manual in Chinese.  And she got the job, and I can guarantee you in
+forty-­‐eight hours, she learned  to type Chinese  because  it was relevant, it was meaningful, it was
+important, she was using a tool to create value. So  the second tool for learning a language is to use
+your language as a tool to communicate right from day one.  As  a kid does. When I first arrived  in
+China I didn’t speak a word of Chinese, and on my second week I got to take a train ride overnight.  I
+spent eight hours sitting  in the dining care talking  to one of the guards on the train, he took an
+interest  in me for some reason,  and we just chatted  all night in Chinese  and he was drawing  pictures
+and making movements with his hands and facial expressions and piece by piece by piece I
+understood more and more. But what was really cool, was two weeks later, when people were
+talking Chinese  around me, I was understanding some of this and I hadn’t even made any effort to
+learn that. What had happened, I’d absorbed it that night on the train, which brings us to the third
+2principle.  When you first understand the message, then you will acquire  the language
+unconsciously. And this is really,  really well documented now, it’s something called comprehensible
+input and there’s  twenty or thirty years of research on this, Stephen  Krashen, a leader in the field
+has published all sorts of these different studies  and this is just from one of them. The purple bars
+show the scores on different tests for language.  The purple people were people who had learned  by
+grammar and formal study, the green ones are the ones who learned  by comprehensible input. So,
+comprehension works. Comprehension is key and language learning is not about accumulating lots
+of knowledge.  In  many, many ways it’s about physiological training.  A woman I know from Taiwan
+did great at English  at school,  she got A grades all the way through, went through  college, A grades,
+went to the US and found she couldn’t understand what people were saying.  And people started
+asking her: ‘Are you deaf?’ And she was.  English deaf. Because we have filters  in our brain that filter
+in the sounds that we are familiar with and they filter out the sounds of languages we’re not.  And if
+you can’t hear it, you won’t understand it and if you can’t understand it, you’re not going to learn it.
+So you actually have to be able to hear these sounds.  And there are ways to do that but it’s
+physiological training.  Speaking takes muscle.  You’ve got forty-­‐three muscles  in your face, you have
+to coordinate those in a way that you make sounds that other people will understand.  If  you’ve ever
+done a new sport for a couple of days, and you know how your body feels? It  hurts. If  your face is
+hurting you’re doing it right.
+</p>
+
+<p>
+And the final principle is state. Psycho-­‐physiological state. If  you’re sad, angry, worried, upset,
+you’re not going to learn. Period.  If  you’re happy, relaxed, in an Alpha brain state, curious, you’re
+going to learn really quickly, and very specifically you need to be tolerant of ambiguity.  If  you’re one
+of those people who needs to understand 100% every word you’re hearing, you will go nuts,
+because you’ll be incredibly upset all the time, because  you’re not perfect.  If  you’re comfortable
+with getting  some, not getting  some, just paying attention to what you do understand, you’re going
+to be fine, you’ll be relaxed  and you’ll be learning quickly.  So  based on those five principles, what
+are the seven actions  that you need to take?
+</p>
+
+<p>
+Number one: listen a lot.  I call it Brain Soaking.  You put yourself in a context  where you’re hearing
+tons and tons of a language and it doesn’t  matter if you understand it or not.  You’re listening to the
+rhythms,  you’re listening to things that repeat,  you’re listening to things that stand out.  So, just soak
+your brain in this.
+</p>
+
+<p>
+The second action:  is that you get the meaning  first, even before you get the words. You go “Well
+how do I do that, I don’t know the words?”  Well, you understand what these different postures
+mean.  Human communication is body language in many, many ways, so much body language.  From
+body language you can understand a lot of communication, therefore, you’re understanding, you’re
+acquiring through  comprehensible input. And you can also use patterns that you already  know. If
+you’re a Chinese  speaker  of Mandarin and Cantonese and you go Vietnam, you will understand 60%
+of what they say to you in daily conversation, because  Vietnamese is about 30% Mandarin, 30%
+Cantonese.
+</p>
+
+<p>
+The third action:  start mixing.  You probably have never thought  of this but if you’ve got ten verbs,
+ten nouns and ten adjectives you can say one thousand different things.  Language is a creative
+process.  What do babies do?  Okay: Me.  Bat(h).  Now.  Okay, that’s how they communicate.  So  start
+mixing, get creative, have fun with it, it doesn’t  have to be perfect, it just has to work. And when
+you’re doing this you focus on the core. What does that mean? Well with every language there is
+high frequency content.  In  English, 1000 words covers 85% of anything you’re ever going to say in
+daily communication. 3000 words gives you 98% of anything you’re going to say in daily
+conversation.  You got 3000 words, you’re speaking the language.  The rest is icing on the cake. And
+3when you’re just beginning with a new language start with the tool box.  Week number one in your
+new language you say things like: ‘how do you say that?’ ‘I don’t understand,’ ‘repeat  that please,’
+‘what does that mean,’ all in your target language.  You’re using it as a tool, making it useful to you,
+it’s relevant to learn other things about the language.  By  week two that you should be saying things
+like: ‘me,’ ‘this,’  ‘you,’ ‘that,’  ‘give,’  you know, ‘hot,’ simple pronouns, simple nouns, simple verbs,
+simple adjectives, communicating like a baby. And by the third or fourth week, you’re getting  into
+what I call glue words. ‘Although,’ ‘but,’ ‘therefore,’ these are logical  transformers that tie bits of a
+language  together, allowing you to make more complex  meaning.  At  that point you’re talking.  And
+when you’re doing that, you should get yourself a language parent.  If  you look at how children and
+parents interact, you’ll understand what this means. When a child is speaking, it’ll be using simple
+words, simple combinations, sometimes quite strange, sometimes very strange  pronunciation and
+other people from outside  the family don’t understand it.  But the parents  do.  And so the kid has a
+safe environment, gets confidence.  The parents  talk to the children with body language and with
+simple language they know the child understands.  So  we have a comprehensible input environment
+that’s safe, we know it works otherwise none of you would speak your mother tongue.  So  you get
+yourself  a language parent,  who’s somebody interested in you as a person who will communicate
+with you essentially as an equal, but pay attention to help you understand the message.  There are
+four rules of a language parent.  Spouses by the way are not very good at this, okay? But the four
+rules are, first of all, they will work hard to understand what you mean even when you’re way off
+beat.  Secondly, they will never correct  your mistakes.  Thirdly they will feedback their
+understanding of what you are saying so you can respond  appropriately and get that feedback and
+then they will use words that you know.
+</p>
+
+<p>
+The sixth thing you have to do, is copy the face. You got to get the muscles  working  right, so you can
+sound in a way that people will understand you.  There’s a couple of things you do.  One is that you
+hear how it feels, and feel how it sounds which means you have a feedback loop operating in your
+face, but ideally, if you can look at a native speaker  and just observe  how they use their face, let your
+unconscious mind absorb the rules, then you’re going to be able to pick it up.  And if you can’t get a
+native speaker  to look at, you can use stuff like this: [slides].
+</p>
+
+<p>
+And the final idea here, the final action you need to take is something that I call “direct  connect.”
+What does this mean? Well most people learning a second language sort of take the mother tongue
+words and take the target words and go over them again and again in their mind to try and
+remember  them. Really inefficient.  What you need to do is realise  that everything you know is an
+image inside your mind, it’s feelings, if you talk about fire you can smell the smoke you can hear the
+crackling, you can see the flames.  So  what you do, is you go into that imagery  and all of that memory
+and you come out with another  pathway.  So  I call it ‘same box, different path.’ You come out of that
+pathway,  you build it over time you become more and more skilled  at just connecting the new
+sounds to those images that you already  have, into that internal representation.  And over time you
+even become naturally good at that process, that becomes  unconscious.
+</p>
+
+<p>
+So, there are five principles that you need to work with, seven actions, if you do any of them, you’re
+going to improve.  And remember these are things under your control  as the learner.  Do  them all
+and you’re going to be fluent in a second language in six months.
+</p>
+
+<p>
+Thank you.
+</p>
+
+<p>
+Reference:
+</p>
+
+<p>
+<a href="http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si">How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity</a>
+<a href="http://www.the-third-ear.com/files/TEDx-ChrisLonsdale-LearnAnyLanguage6Months.pdf">download pdf</a>
+</p>
+</div>
+</div>

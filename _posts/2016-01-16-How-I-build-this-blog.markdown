@@ -35,6 +35,8 @@ I use github.com as my blog host.
 </li>
 <li>Reference : <a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">org-jekyll-tutorials</a>, and template from <a href="https://github.com/jekyllbootstrap/theme-mark-reid">Mark-Reid</a>.
 </li>
+<li>now jekyll3
+</li>
 </ul>
 </div>
 </div>
@@ -172,6 +174,10 @@ The result is bold text like this:
 <li>Add a button to move to the topest position.
 </li>
 <li>Add some robot proticol. And Python server scripts. Learn from others's examples.
+</li>
+<li>more posts.
+</li>
+<li>Now github support jekyll 3, which is supposed to be more simple and fast, except I have not try it yet.
 </li>
 </ol>
 </div>

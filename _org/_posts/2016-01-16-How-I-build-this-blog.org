@@ -24,6 +24,7 @@ layout: post
       + Operating System : ubuntu 15.04
       + Tools : emacs, org-mod, jekyll(depends on ruby), github.
       + Reference : [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][org-jekyll-tutorials]], and template from [[https://github.com/jekyllbootstrap/theme-mark-reid][Mark-Reid]].
+      + now jekyll3
 ** Step by Step
    1. Setup github reponsity
    2. Install jekyll and configuration.
@@ -95,7 +96,6 @@ layout: post
 
    1. GTD with ORG
    2. Checkout to use org-md-export-to-markdown method.
-   3. How to add up a picture? with right href. No working right now.
    4. I will change the main menu option of this blog.
    5. I will add a side bar, and see how is the effect.
    6. My org mod do not do it right with org-tables, maybe because my emacs theme.
@@ -106,6 +106,8 @@ layout: post
    13. Move name and date to the begining of the post.
    14. Add a button to move to the topest position.
    15. Add some robot proticol. And Python server scripts. Learn from others's examples.
+   12. more posts.
+   13. Now github support jekyll 3, which is supposed to be more simple and fast, except I have not try it yet.
 
 ** My repo link
 

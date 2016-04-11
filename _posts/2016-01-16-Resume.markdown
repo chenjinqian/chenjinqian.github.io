@@ -18,7 +18,7 @@ layout: post
 </li>
 <li>Work Experiences.
 </li>
-<li>Skill set.
+<li>Skill sets.
 </li>
 </ul>
 </li>
