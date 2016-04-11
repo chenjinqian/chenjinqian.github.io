@@ -240,7 +240,7 @@ ul.compact li a {
 	line-height: 75%
 }
 #header:hover .byline a { color: silver; text-shadow: none; }
-#header:hover .byline a:hover { color: blue; text-shadow: #aaa 1px 1px 2px;}
+#header:hover .byline a:hover { color: black; text-shadow: #aaa 1px 1px 2px;}
 
 /* @group Twitter */
 #twitter_update_list { display: inline; margin: 0; }
