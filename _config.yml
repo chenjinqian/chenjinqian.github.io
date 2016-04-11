@@ -1,4 +1,4 @@
-# This is the default format.
+v# This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
 
@@ -139,4 +139,4 @@ JB :
 
 
 # some relative_url problem, jekyll 2 to 3, and github page support problem
-relative_permalinks: true
+# relative_permalinks: true
