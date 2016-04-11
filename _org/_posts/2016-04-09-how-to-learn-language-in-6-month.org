@@ -12,7 +12,7 @@ layout: post
 #+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
-*** How to learn any language in six months, by Chris Lonsdale （如何在 6 个月内学会任何外语,[[http://www.kungfuenglish.com/page/618][龙飞虎]]）
++ 如何在 6 个月内学会任何外语,[[http://www.kungfuenglish.com/page/618][龙飞虎]]
 
 Have you ever held a question in mind for so long that it becomes part of how you think?\\
 你是否曾经把一个问题留在心中很久, 结果它已经成为你的一种思考习惯?\\
@@ -91,7 +91,7 @@ And I looked at this and I went ‘wow,’ so that’s how I look like when I’
 当我看着这个,我“哇”了一声,那就是我非常强烈的,专注到我大脑快要爆炸的样子呀!\\
 So, anybody can learn to draw in five days and in the same way, with the same logic, anybody can learn a second language in six months.\\
 因此,任何人都能够用 5 天时间学会画画,同样地,用同样的方式和逻辑,任何人都可以在 6 个月内学会一门外语。\\
-+ How: there are five principles and seven actions.
+  + How: there are five principles and seven actions.
 怎么做呢?有 5 个原则和 7 个行动作为指导。\\
 There may be a few more but these are absolutely core.\\
 可能还会有更多,但这些绝对是核心部分。\\
@@ -117,25 +117,25 @@ When you don’t speak a language you’re like a baby and if you drop yourself 
 当你不能说那种语言,你就像一个婴儿,如果你浸入到一个环境中,那里全部都是成年人在叽叽呱呱的说一些你完全听不明白的话,你是学不会的。\\
 So, what are the five principles that you need to pay attention to;\\
 那么,你需要注意的那 5 个原则是什么呢?\\
-+ FIRST RULE
+  + Rule One
 First: there are four words, attention, meaning, relevance and memory, and these interconnect in very important ways. Especially when you’re talking about learning.\\
 首先,有四个词,注意力、含义、关联和记忆,而这些在很多非常重要的方面是相互连接的,特别在你谈论学习的时候。\\
 Come with me on a journey through a forest.\\
 请跟随我来一趟森林之旅。\\
 You go on a walk through a forest and you see something like this.\\
-你穿越森林,然后你看到一个像这样的东西。(pic claw steach?)\\
+你穿越森林,然后你看到一个像这样的东西。(picture of scratch on the tree)\\
 Little marks on a tree, maybe you pay attention, maybe you don’t.\\
 你可能注意到树上的这些小标志,或者没注意到。\\
 You go another fifty metres and you see this.\\
-然后你继续向前走 50 米,你看到了这个。(pic bear pupe)\\
+然后你继续向前走 50 米,你看到了这个。(picture of bear poo)\\
 You should be paying attention.\\
 你该注意了。\\
 Another fifty metres, if you haven’t been paying attention, you see this.\\
-再 50 米,如果你还没注意的话,你会看到这个。(pic black bear)\\
+再 50 米,如果你还没注意的话,你会看到这个。(picture of a black bear)\\
 And at this point, you’re paying attention.\\
 这个的时候,你肯定会注意了。\\
 And you’ve just learned that this is important, it’s relevant because it means this, and anything that is related, any information related to your survival is stuff that you’re going to pay attention to and therefore you’re going to remember it.\\
-你刚刚学习到了这个信息是重要的(pic clawers),它与你有重要关系,因为它代表这个(pic black bear)。任何有关联的东西,任何有关你生存的信息都是值得你注意的,而你高度注意的东西就会被记住。\\
+你刚刚学习到了这个信息是重要的(picture of clawers scratch),它与你有重要关系,因为它代表这个(picture of black bear)。任何有关联的东西,任何有关你生存的信息都是值得你注意的,而你高度注意的东西就会被记住。\\
 If it’s related to your personal goals then you’re going to pay attention to it, if it’s relevant you’re going to remember it.\\
 如果它关于你个人目标的,那么你就会注意到它,如果它与你是有关联的,你就会记住它。\\
 So, the first rule, the first principle for learning a language is focus on language content that is relevant to you.\\
@@ -158,7 +158,7 @@ And one night we had a crisis. We had forty eight hours to deliver a training ma
 一天晚上,我们有一件紧急的事情。我们有 48 个小时来准备用中文发表一本训练手册。\\
 And she got the job, and I can guarantee you in forty eight hours, she learned to type Chinese because it was relevant, it was important, it was meaningful, she was using a tool to create value.\\
 她承担这个任务 ,我可以向你保证,在 48 个小时内,她学会了用中文打字。因为这是相关的、重要的、有意义的,她在使用一种工具来创造价值。\\
-+ SECOND RULE
+  + Rule Two
 So the second tool for learning a language is to use your language as a tool to communicate right from day one. As a kid does.\\
 因此,学习一门语言的第二个工具，是从第一天开始就用所学的语言作为工具来沟通,像一个孩子那样做。\\
 When I first arrived in China I didn’t speak a word of Chinese, and on my second week I got to take a train ride overnight.\\
@@ -169,18 +169,18 @@ But what was really cool, was two weeks later, when people were talking Chinese 
 但是真正有趣的是,两个星期后,当人们在我周围说中文的时候,我可以明白一些了。而且我并没有为之付出任何努力。\\
 What had happened, I’d absorbed it that night on the train, which brings us to the third principle.\\
 发生了什么?在火车的那晚我已经吸收了中文,也是我们要说的第三个原则。\\
-+ THIRD RULE
+  + Rule Three
 When you first understand the message, then you will acquire the language unconsciously.\\
 当你已经理解沟通的信息含义,接下来你将不知不觉下意识的获得该语言。\\
 And this is really, really well documented now, it’s something called comprehensible input and there’s twenty or thirty years of research on this. Stephen Krashen, a leader in the field has published all sorts of these different studies and this is just from one of them.\\
 而且这是有充足的证据证明的,我们把它称之为“可明白输入”,而这个概念被研究了了研究二三十年。此领域的佼佼者史蒂夫·克拉申发布了各类不同的学术研究成果,而这些数据来自他的一个报告。\\
 The purple bars show the scores on different tests for language.\\
-条形图里面的紫色部分显示不同语言测试的成绩。(pic data)\\
+条形图里面的紫色部分显示不同语言测试的成绩。(picture some data)\\
 The purple people were people who had learned by grammar and formal study, the green ones are the ones who learned by comprehensible input.\\
 紫色代表那些通过正式学习和学习语法的人,绿色的代表那些通过可明白输入学习的人。\\
 So, comprehension works. Comprehension is key and language learning is not about accumulating lots of knowledge.\\
 因此,理解是起作用的。理解是关键,学语言本身不仅仅是积累大量的知识。\\
-+ FOURTH RULE
+  + Rule Four
 In many, many ways it’s about physiological training.\\
 在很多方面,学习语言更是一种生理上的训练。\\
 A woman I know from Taiwan did great at English at school, she got A grades all the way through, went through college, A grades, went to the US and found she couldn’t understand what people were saying.\\
@@ -199,7 +199,7 @@ If you’ve ever done a new sport for a couple of days, then you know how your b
 如果你曾经有做过几天新的运动,你会知道你的身体有什么感觉。有点酸疼。\\
  If your face is hurting you’re doing it right.\\
 如果你的面部有这种酸疼的感觉,那就对了。\\
-+ FIFTH RULE
+  + Rule Five
 And the final principle is state. Psycho-­‐physiological state.\\
 最后一个原则是状态。心理生理的状态。\\
  If you’re sad, angry, worried, upset, you’re not going to learn.\\
@@ -214,17 +214,17 @@ If you’re comfortable with getting some, not getting some, just paying attenti
 如果你对听明白一些、听不明白一些而感到舒服,并把注意力放在你明白的部分,你将会学好,而且你的状态越轻松,你将学得越快。\\
 So based on those five principles, what are the seven actions that you need to take?\\
 那么在这 5 个原则上,你还需要哪 7 个行动呢?\\
-+ Number one: listen a lot.
+  + Number one: listen a lot.
 第一,多听。\\
 I call it brain soaking.\\
-我把它叫做泡脑子。(pic brain)\\
+我把它叫做泡脑子。(picture of brain in bath)\\
 You put yourself in a context where you’re hearing tons and tons and tons of a language and it doesn’t matter if you understand it or not.\\
 你把自己置放在听很多很多语言的环境当中,听得明白与否无关重要。\\
 You’re listening to the rhythm ,you’re listening to the patterns that repeat, you’re listening to things that stand out.\\
 在听的时候,你是在听它的节奏、听它重复的模式、听凸出来的词语。\\
 So, just soak your brain in this.\\
 所以，像这样泡泡你的脑子。\\
-+ The second action: is that you get the meaning first, even before you get the words.
+  + The second action: is that you get the meaning first, even before you get the words.
 第二个行动是在获取单词之前先获取它的意思。\\
 You go “Well how do I do that?”, I don’t know the words. Well, you understand what these different postures mean.\\
 你可能在想,这个我怎么做到呢? 我不知道那些单词! 但你可以理解那些不同手势代表的含义。\\
@@ -237,7 +237,7 @@ And you can also use patterns that you already know.\\
 If you’re a Chinese speaker of Mandarin and Cantonese and you go Vietnam, you will understand 60% of what they say to you in daily conversation, because Vietnamese is about 30% Mandarin, 30% Cantonese.\\
 如果你是说国语和粤语,当你去到越南,你可以明白 60%的日常用语,因为越南话有 30%的国语\\
 和 30%的粤语。\\
-+ The third action: start mixing.
+  + The third action: start mixing.
 第三个行动:开始混合。\\
 You probably have never thought of this but if you’ve got ten verbs, ten nouns and ten adjectives you can say one thousand different things.\\
 你可能之前没有想过这个,但如果你有 10 个动词,10 个名词和 10 个形容词,你可以说一千句不同的话。\\
@@ -263,7 +263,7 @@ You got 3000 words, you’re speaking the language.\\
 你有 3000 个高频词,你将可以说一门外语。\\
 The rest is icing on the cake.\\
 剩余的是锦上添花。\\
-+ And when you’re just begging with a new language start with the tool box.
+  + And when you’re just begging with a new language start with the tool box.
 当你开始学习一门外语,从工具箱开始。\\
 Week number one in your new language you say things like: ‘how do you say that?’\\
 第一周,你会用新语言说一些像这样的话“那个你怎么说?”\\
@@ -287,7 +287,7 @@ And by the third or fourth week, you’re getting into what I call glue words.\\
 “虽然”、“但是”、“因此”,这些逻辑工具帮助你把语言的小块紧密地结合在一起,让你制造更多复杂的意思。\\
 At that point you’re talking.\\
 在那个阶段,你已经进入说话的阶段了! 。\\
-+ And when you’re doing that, you should get yourself a language parent.\\
+  + And when you’re doing that, you should get yourself a language parent.\\
 当你这样做的时候,你应该给自己找位语言家长。\\
 If you look at how children and parents interact, you’ll understand what this means.\\
 如果你看看孩子和父母之间的互动,你会明白这个什么意思的。\\
@@ -313,7 +313,7 @@ Secondly, they will never correct your mistakes.\\
 第二,他们从来不会纠正你的错误。\\
 Thirdly they will feed back their understanding of what you are saying so you can respond appropriately and get that feedback and then they will use words that you know.\\
 第三,他们会理解你说的话并给出反馈,好让你适当地回应并获得反馈,并且他们也是说你知道的单词。\\
-+ The sixth thing you have to do, is copy the face.
+  + The sixth thing you have to do, is copy the face.
 第六件事你需要做的就是模仿面部表情。\\
 You’ve got to get the muscles working right, so you can sound in a way that people will understand you.\\
 你需要把肌肉部位用得准确,别人才可以听明白你发出的声音。\\
@@ -322,8 +322,8 @@ There’s a couple of things you do.\\
 One is that you hear how it feels, and feel how it sounds which means you have a feedback loop operating in your face, but ideally if you can look at a native speaker and just observe how they use their face, let your unconscious mind absorb the rules, then you’re going to be able to pick it up.\\
 第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。如果条件理想的话,你可以看着母语者并观察他们的面部,让你下意识地吸收这些规则,然后你将能够获取到它。\\
 And if you can’t get a native speaker to look at, you can use stuff like this: [slides].\\
-如果你没有母语者可以看着学习的话,你可以用像这样的东西。(pic )\\
-+ And the final idea here, the final action you need to take is something that I call “direct connect.”
+如果你没有母语者可以看着学习的话,你可以用像这样的东西。(picture sth )\\
+  + And the final idea here, the final action you need to take is something that I call “direct connect.”
 最后一个行动是你需要“直接联系”。\\
 What does this mean?\\
 这是什么意思呢?\\
@@ -354,5 +354,5 @@ Thank you.\\
 谢谢。\\
 
 Reference:\\
-[[http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si][How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity]]\\
-[[http://www.kungfuenglish.com/page/618][Chris Lonsdale 龙飞虎介绍，功夫英语]]
+1. [[http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si][How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity]]\\
+2. [[http://www.kungfuenglish.com/page/618][Chris Lonsdale 龙飞虎介绍，功夫英语]]
