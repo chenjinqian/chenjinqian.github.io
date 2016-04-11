@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>HOME</title>
- <link href="http://chenjinqian.github.io/" rel="self"/>
- <link href="http://chenjinqian.github.io"/>
- <updated>2016-04-11T23:07:19+08:00</updated>
- <id>http://chenjinqian.github.io</id>
+ <title></title>
+ <link href="/" rel="self"/>
+ <link href=""/>
+ <updated>2016-04-11T23:18:51+08:00</updated>
+ <id></id>
  <author>
-   <name>JinQian Chen</name>
-   <email>2012chenjinqian@gmail.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>How to learn any language in six months, by Chris Lonsdale.</title>
-   <link href="http://chenjinqian.github.io/tech/2016/04/09/how-to-learn-language-in-6-month"/>
+   <link href="/tech/2016/04/09/how-to-learn-language-in-6-month.html"/>
    <updated>2016-04-09T00:00:00+08:00</updated>
-   <id>http://chenjinqian.github.io/tech/2016/04/09/how-to-learn-language-in-6-month</id>
+   <id>/tech/2016/04/09/how-to-learn-language-in-6-month</id>
    <content type="html">&lt;ul class=&quot;org-ul&quot;&gt;
 &lt;li&gt;如何在 6 个月内学会任何外语,&lt;a href=&quot;http://www.kungfuenglish.com/page/618&quot;&gt;龙飞虎&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -428,9 +428,9 @@ Reference:&lt;br /&gt;
  
  <entry>
    <title>My Resume.</title>
-   <link href="http://chenjinqian.github.io/personal/2016/01/16/Resume"/>
+   <link href="/personal/2016/01/16/Resume.html"/>
    <updated>2016-01-16T00:00:00+08:00</updated>
-   <id>http://chenjinqian.github.io/personal/2016/01/16/Resume</id>
+   <id>/personal/2016/01/16/Resume</id>
    <content type="html">&lt;div id=&quot;outline-container-orgheadline1&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;orgheadline1&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;1&lt;/span&gt; Experience and Resume&lt;/h2&gt;
 &lt;div class=&quot;outline-text-2&quot; id=&quot;text-1&quot;&gt;
@@ -448,9 +448,9 @@ Reference:&lt;br /&gt;
  
  <entry>
    <title>How I build this blog.</title>
-   <link href="http://chenjinqian.github.io/tech/2016/01/16/How-I-build-this-blog"/>
+   <link href="/tech/2016/01/16/How-I-build-this-blog.html"/>
    <updated>2016-01-16T00:00:00+08:00</updated>
-   <id>http://chenjinqian.github.io/tech/2016/01/16/How-I-build-this-blog</id>
+   <id>/tech/2016/01/16/How-I-build-this-blog</id>
    <content type="html">&lt;div id=&quot;outline-container-sec-1&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;sec-1&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;1&lt;/span&gt; Summary&lt;/h2&gt;
 &lt;div class=&quot;outline-text-2&quot; id=&quot;text-1&quot;&gt;
@@ -637,9 +637,9 @@ The result is bold text like this:
  
  <entry>
    <title>About</title>
-   <link href="http://chenjinqian.github.io/personal/2014/12/15/About"/>
+   <link href="/personal/2014/12/15/About.html"/>
    <updated>2014-12-15T00:00:00+08:00</updated>
-   <id>http://chenjinqian.github.io/personal/2014/12/15/About</id>
+   <id>/personal/2014/12/15/About</id>
    <content type="html">&lt;div id=&quot;outline-container-sec-1&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;sec-1&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;1&lt;/span&gt; About Me&lt;/h2&gt;
 &lt;div class=&quot;outline-text-2&quot; id=&quot;text-1&quot;&gt;

@@ -1,14 +1,14 @@
 
-http://chenjinqian.github.io/archive.html
-http://chenjinqian.github.io/atom.xml
-http://chenjinqian.github.io/categories.html
-http://chenjinqian.github.io/index.html
-http://chenjinqian.github.io/pages.html
-http://chenjinqian.github.io/rss.xml
-http://chenjinqian.github.io/sitemap.txt
-http://chenjinqian.github.io/tags.html
+/archive.html
+/atom.xml
+/categories.html
+/index.html
+/pages.html
+/rss.xml
+/sitemap.txt
+/tags.html
 
-http://chenjinqian.github.io/tech/2016/04/09/how-to-learn-language-in-6-month
-http://chenjinqian.github.io/personal/2016/01/16/Resume
-http://chenjinqian.github.io/tech/2016/01/16/How-I-build-this-blog
-http://chenjinqian.github.io/personal/2014/12/15/About
+/tech/2016/04/09/how-to-learn-language-in-6-month.html
+/personal/2016/01/16/Resume.html
+/tech/2016/01/16/How-I-build-this-blog.html
+/personal/2014/12/15/About.html
