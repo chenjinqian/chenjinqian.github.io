@@ -375,7 +375,7 @@ And if you can’t get a native speaker to look at, you can use stuff like this:
 <li>And the final idea here, the final action you need to take is something that I call “direct connect.”</li>
 </ul>
 <p>
-最后一个行动是你需要“直接联系”。<br  />
+最后一个行动是你需要“直接关联”。<br  />
 What does this mean?<br  />
 这是什么意思呢?<br  />
 Well most people learning a second language sort of take the mother tongue words and take the target words and go over them again and again in their mind to try and remember them.<br  />
