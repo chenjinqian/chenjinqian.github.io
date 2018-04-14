@@ -562,5 +562,5 @@ Thank you.\\
 谢谢。\\
 
 Reference:\\
-1. [[http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si][How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity]]\\
+1. [[http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si][Chris Lonsdale at TEDx LingnanUniversity]]
    #  2. [[http://www.kungfuenglish.com/page/618][Chris Lonsdale 龙飞虎]]

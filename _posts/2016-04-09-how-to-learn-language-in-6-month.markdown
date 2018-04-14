@@ -721,6 +721,6 @@ Thank you.<br  />
 Reference:<br  />
 </p>
 <ol class="org-ol">
-<li><a href="http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si">How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity</a><br  />
+<li><a href="http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si">Chris Lonsdale at TEDx LingnanUniversity</a>
 </li>
 </ol>
