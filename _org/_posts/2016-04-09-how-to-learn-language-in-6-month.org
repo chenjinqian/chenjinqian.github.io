@@ -1,8 +1,8 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: How to learn any language in six months, by Chris Lonsdale.
-excerpt: Some really interesting talk about language learning from TED. With Chinese translation, still need some pictures.
+title: How to learn any language in six months -- Chris Lonsdale.
+excerpt: Language learing theory from TED speach. With Chinese translation, still need some pictures.
 categories:
     - tech
 tags:
@@ -26,7 +26,8 @@ And if you learn really fast, you probably wouldn’t have to go to school at al
 这是一个很有趣的问题,因为如果你可以加快自己的学习的速度,你就可以在学校里花更少时间。
 如果你真的能学得特别快,你可能根本就不用去上学。\\
 
-Now, when I was young, school was sort of okay but I found quite often that school got in the way of learning,
+Now, when I was young, school was sort of okay
+but I found quite often that school got in the way of learning,
 so I had this question in mind: how do you learn faster?
 And this began when I was very, very young.
 When I was about eleven years old I wrote a letter to researchers in the Soviet Union,
@@ -137,263 +138,424 @@ So, anybody can learn to draw in five days and in the same way, with the same lo
 当我看着这个,我“哇”的惊叹了一声，这是我注意力高度集中到大脑快要爆炸的样子(pic 3).
 所以,任何人都能够用 5 天时间学会画画,同样地,用同样的方式和逻辑,任何人都可以在 6 个月内学会一门外语。\\
 
-  + How: there are five principles and seven actions.
-怎么做呢?有 5 个原则和 7 个行动作为指导。\\
-There may be a few more but these are absolutely core.\\
-可能还会有更多,但这些绝对是核心部分。\\
+  + How
+there are five principles and seven actions.
+There may be a few more but these are absolutely core.
 And before I get into those I just want to talk about two myths, dispel two myths.\\
-进入这些点之前我想先打破两个神话。\\
+
+怎么做呢?有 5 个原则和 7 个方法。
+可能还会有更多,但这些绝对是核心部分。
+在这之前，我想先打破两个关于语言学习的神话。\\
+
 The first is that you need talent.\\
-第一个关于语言学习的神话是你需要有天赋。\\
 Let me tell you about Zoe.\\
-让我跟你们说说关于佐伊的事情。\\
-Zoe came from Australia, went to Holland, was trying to learn Dutch, struggling a great deal and finally people were saying: ‘you’re completely useless,’ ‘you’re not talented,’ ‘give up,’ ‘you’re a waste of time’ and she was very, very depressed.\\
-佐伊是澳大利亚人,她去到荷兰并尝试学习荷兰语。她非常挣扎,最后人们跟她说,“没用的,” “你没有天赋,”“还是放弃吧”,“你根本就是在浪费时间。”她对此感到非常沮丧。\\
-And then she came across these five principles, she moved to Brazil and she applied them and within six months she was fluent in Portuguese, so talent doesn’t matter.\\
-后来,她无意中发现了这 5 个原则,去了巴西,并把这些原则应用到她学习葡萄牙语中,在6 个月内,她就可以说流利的葡萄牙语了。因此,天赋不重要。\\
-But look around Hong Kong, look at all the westerners who’ve been here for ten years, who don’t speak a word of Chinese.\\
-但是看看在香港已经呆了 10 年的西方人,还是一句中文也不会说。\\
-Look at all the Chinese living in America, Britain, Australia, Canada who have been there ten, twenty years and they don’t speak any English.\\
-看看那些居住在美国、英国、澳大利亚、加拿大 10 年、20 年的中国人,还是不会一句英文。\\
-Immersion per se doesn’t not work, why?\\
-只呆在一个新的国家本身是没有用的。为什么?\\
-Because a drowning man cannot learn to swim.\\
-因为溺水的人是学不会游泳的。\\
-When you don’t speak a language you’re like a baby and if you drop yourself into a context which is all adults talking about stuff over your head, you won’t learn.\\
-当你不能说那种语言,你就像一个婴儿,如果你浸入到一个环境中,那里全部都是成年人在叽叽呱呱的说一些你完全听不明白的话,你是学不会的。\\
+Zoe came from Australia, went to Holland, was trying to learn Dutch,
+struggling a great deal and finally people were saying: ‘you’re completely useless,’
+‘you’re not talented,’ ‘give up,’ ‘you’re a waste of time’ and she was very, very depressed.\\
+And then she came across these five principles,
+she moved to Brazil and she applied them and within six months she was fluent in Portuguese,
+so talent doesn’t matter.\\
+
+第一个神话是你需要有天赋。让我讲讲佐伊的事情。\\
+佐伊是澳大利亚人,她去到荷兰并尝试学习荷兰语。她非常挣扎,
+最后人们跟她说,“没用的,” “你没有天赋,”“还是放弃吧”,“你根本就是在浪费时间”。
+她对此感到非常沮丧。
+后来,她无意中发现了这 5 个原则,她搬到了巴西，6个月后,她就可以说流利的葡萄牙语了。
+因此,天赋不重要。\\
+
+The second is that you need immersion envirement.
+But look around Hong Kong, look at all the westerners who’ve been here for ten years,
+ who don’t speak a word of Chinese.
+Look at all the Chinese living in America, Britain, Australia,
+Canada who have been there ten, twenty years and they don’t speak any English.
+Immersion envirement here doesn’t not work, why?
+Because a drowning man cannot learn to swim.
+When you don’t speak a language you’re like a baby and
+if you drop yourself into a context which is all adults talking about stuff over your head, you won’t learn.
 So, what are the five principles that you need to pay attention to;\\
+
+第二个神话是，你需要当地的语言环境。
+但是看看在香港已经呆了 10 年的西方人,还是一句中文也不会说。
+看看那些居住在美国、英国、澳大利亚、加拿大 10 年、20 年的中国人,还是不会一句英文。
+置身新的国家和语言环境，在这里并没有作用，为什么?
+因为溺水的人是学不会游泳的。
+当你不会说一种语言时,你就像一个婴儿,
+如果你被扔到到一个全部都是成年人的环境中，听他们讲一些完全听不明白的内容,你是学不到东西的。
 那么,你需要注意的那 5 个原则是什么呢?\\
+
   + Rule One
-First: there are four words, attention, meaning, relevance and memory, and these interconnect in very important ways. Especially when you’re talking about learning.\\
-首先,有四个词,注意力、含义、关联和记忆,而这些在很多非常重要的方面是相互连接的,特别在你谈论学习的时候。\\
-Come with me on a journey through a forest.\\
-请跟随我来一趟森林之旅。\\
-You go on a walk through a forest and you see something like this.\\
-你穿越森林,然后你看到一个像这样的东西。(picture of scratch on the tree)\\
-Little marks on a tree, maybe you pay attention, maybe you don’t.\\
-你可能注意到树上的这些小标志,或者没注意到。\\
-You go another fifty metres and you see this.\\
-然后你继续向前走 50 米,你看到了这个。(picture of bear poo)\\
-You should be paying attention.\\
-你该注意了。\\
-Another fifty metres, if you haven’t been paying attention, you see this.\\
-再 50 米,如果你还没注意的话,你会看到这个。(picture of a black bear)\\
+First: there are four words, attention, meaning, relevance and memory,
+and these interconnect in very important ways.
+Especially when you’re talking about learning.
+Come with me on a journey through a forest.
+You go on a walk through a forest and you see something like this(pic 4).
+Little marks on a tree, maybe you pay attention, maybe you don’t(pic 5).
+You go another fifty metres and you see this(pic 6).
+You should be paying attention.
+Another fifty metres, if you haven’t been paying attention, you see this.
 And at this point, you’re paying attention.\\
+
+首先,有四个词,注意力、含义、关联和记忆,
+而且这几个词之间是有重要联系的,特别在学习这方面。
+请跟随我来一趟森林之旅。
+你穿越森林,然后你看到一个像这样的东西。(picture of scratch on the tree)
+你可能注意到树上的这些小标志,或者没注意到。
+然后你继续向前走 50 米,你看到了这个。(picture of bear poo)
+你该注意了。
+再 50 米,如果你还没注意的话,你会看到这个。(picture of a black bear)
 这个的时候,你肯定会注意了。\\
-And you’ve just learned that this is important, it’s relevant because it means this, and anything that is related, any information related to your survival is stuff that you’re going to pay attention to and therefore you’re going to remember it.\\
-你刚刚学习到了这个信息是重要的(picture of clawers scratch),它与你有重要关系,因为它代表这个(picture of black bear)。任何有关联的东西,任何有关你生存的信息都是值得你注意的,而你高度注意的东西就会被记住。\\
-If it’s related to your personal goals then you’re going to pay attention to it, if it’s relevant you’re going to remember it.\\
-如果它关于你个人目标的,那么你就会注意到它,如果它与你是有关联的,你就会记住它。\\
-So, the first rule, the first principle for learning a language is focus on language content that is relevant to you.\\
-因此,学习一门语言的第一个原则就是注意那些与你息息相关的语言内容上。\\
-Which brings us to tools.\\
-这就让我们谈到了工具。\\
+
+And you’ve just learned that this(pic 4) is important, it’s relevant because it means this(pic 6),
+and anything that is related, any information related to your survival is stuff
+that you’re going to pay attention to and therefore you’re going to remember it.
+If it’s related to your personal goals then you’re going to pay attention to it,
+if it’s relevant you’re going to remember it.
+So, the first rule, the first principle for learning a
+language is focus on language content that is relevant to you.
+Which brings us to tools.
 We master tools by using tools and we learn tools the fastest when they are relevant to us.\\
-我们通过使用工具来掌握工具,而当这些工具与我们息息相关的时候,我们就可以学得很快。\\
-So let me share a story.\\
-先让我分享一个故事。\\
-A keyboard is a tool.\\
-键盘是一个工具。\\
-Typing Chinese a certain way, there are methods for this. That’s a tool.\\
-有不同方法打中文字。这些方法属于工具的一种。\\
-I had a colleague many years ago who went to night school;\\
-多年前,我有一位同事,她上夜校学习中文打字。\\
-Tuesday night, Thursday night, two hours each night, practicing at home, she spent nine months, and she did not learn to type Chinese.\\
-每周二、周四晚上,她都用 2 个小时上课,然后也在家练习,她花了 9 个月的时间,仍然没学会打中文汉字。\\
-And one night we had a crisis. We had forty eight hours to deliver a training manual in Chinese.\\
-一天晚上,我们有一件紧急的事情。我们有 48 个小时来准备用中文发表一本训练手册。\\
-And she got the job, and I can guarantee you in forty eight hours, she learned to type Chinese because it was relevant, it was important, it was meaningful, she was using a tool to create value.\\
-她承担这个任务 ,我可以向你保证,在 48 个小时内,她学会了用中文打字。因为这是相关的、重要的、有意义的,她在使用一种工具来创造价值。\\
+
+你刚刚学习到了这个信息是重要的(picture of clawers scratch 熊爪印),
+它与你有重要关系,因为它代表这个(picture of black bear 黑熊)。
+任何有关联的东西,任何有关你生存的信息都是值得你注意的,而你高度注意的东西就会被记住。
+如果它关于你个人目标的,那么你就会注意到它,如果它与你是有关联的,你就会记住它。
+因此,学习一门语言的第一个原则就是注意那些与你息息相关的语言内容上。
+我们来讲讲工具。我们通过使用工具来掌握工具,
+而当这些工具与我们息息相关的时候,我们就可以学得很快。\\
+
+So let me share a story. A keyboard is a tool.
+Typing Chinese a certain way, there are methods for this. That’s a tool.
+I had a colleague many years ago who went to night school;
+Tuesday night, Thursday night, two hours each night,
+practicing at home, she spent nine months, and she did not learn to type Chinese.
+And one night we had a crisis. We had forty eight hours to deliver a training manual in Chinese.
+And she got the job, and I can guarantee you in forty eight hours,
+ she learned to type Chinese because it was relevant,
+it was important, it was meaningful, she was using a tool to create value.\\
+
+先让我分享一个故事。键盘是一种工具。
+有不同方法打中文字。这些方法属于工具的一种。
+多年前,我有一位同事,她上夜校学习中文打字。
+每周二、周四晚上,她都用 2 个小时上课,然后也在家练习,她花了 9 个月的时间,
+仍然没学会打中文汉字。
+一天晚上,我们有一件紧急的事情。我们有 48 个小时来准备用中文发表一本训练手册。
+她承担这个任务 ,我可以向你保证,在 48 个小时内,她学会了用中文打字。
+因为这是相关联的、重要的、有意义的,她在使用一种工具来创造价值。\\
+
   + Rule Two
-So the second tool for learning a language is to use your language as a tool to communicate right from day one. As a kid does.\\
-因此,学习一门语言的第二个工具，是从第一天开始就用所学的语言作为工具来沟通,像一个孩子那样做。\\
-When I first arrived in China I didn’t speak a word of Chinese, and on my second week I got to take a train ride overnight.\\
-当我初次来到中国,我一句中文都不会说。第二个星期我乘坐火车过夜。\\
-I spent eight hours sitting in the dining car talking to one of the guards on the train。He took an interest in me for some reason, and we just chatted all night in Chinese and he was drawing pictures and making movements with his hands and facial expressions and piece by piece by piece I understood more and more.\\
-我花了 8 个小时,坐在餐车,跟一位乘警聊。因为某种原因,他对我很感兴趣。我们在那用中文聊了一整夜,随着他画画、比划双手并动用他的面部表情,我逐渐地明白越来越多。\\
-But what was really cool, was two weeks later, when people were talking Chinese around me, I was understanding some of this and I hadn’t even made any effort to learn that.\\
-但是真正有趣的是,两个星期后,当人们在我周围说中文的时候,我可以明白一些了。而且我并没有为之付出任何努力。\\
-What had happened, I’d absorbed it that night on the train, which brings us to the third principle.\\
+So the second tool for learning a language is to use your language
+as a tool to communicate right from day one. As a kid does.
+When I first arrived in China I didn’t speak a word of Chinese,
+and on my second week I got to take a train ride overnight.
+I spent eight hours sitting in the dining car talking to one of the guards on the train.
+He took an interest in me for some reason,
+and we just chatted all night in Chinese and he was drawing pictures
+and making movements with his hands and facial expressions and
+piece by piece by piece I understood more and more.
+But what was really cool, was two weeks later,
+when people were talking Chinese around me,
+I was understanding some of this and I hadn’t even made any effort to learn that.
+What had happened, I’d absorbed it that night on the train,
+which brings us to the third principle.\\
+
+因此,学习一门语言的第二个工具，是将语言作为工具，
+从第一天开始就用所学语言来沟通。 就像孩子做的那样。
+当我初次来到中国,我一句中文都不会说。第二个星期我乘坐火车过夜。
+我花了 8 个小时,坐在餐车,跟一位乘警聊。由于某些原因,他对我很感兴趣。
+我们在那用中文聊了一整夜,随着他画画、比划双手并动用他的面部表情,我逐渐地明白越来越多。
+但是真正有趣的是,两个星期后,当人们在我周围说中文的时候,
+我可以明白一些了。而且我并没有为之付出任何努力。
 发生了什么?在火车的那晚我已经吸收了中文,也是我们要说的第三个原则。\\
+
   + Rule Three
-When you first understand the message, then you will acquire the language unconsciously.\\
-当你已经理解沟通的信息含义,接下来你将不知不觉下意识的获得该语言。\\
-And this is really, really well documented now, it’s something called comprehensible input and there’s twenty or thirty years of research on this. Stephen Krashen, a leader in the field has published all sorts of these different studies and this is just from one of them.\\
-而且这是有充足的证据证明的,我们把它称之为“可明白输入”,而这个概念被研究了了研究二三十年。此领域的佼佼者史蒂夫·克拉申发布了各类不同的学术研究成果,而这些数据来自他的一个报告。\\
-The purple bars show the scores on different tests for language.\\
-条形图里面的紫色部分显示不同语言测试的成绩。(picture some data)\\
-The purple people were people who had learned by grammar and formal study, the green ones are the ones who learned by comprehensible input.\\
-紫色代表那些通过正式学习和学习语法的人,绿色的代表那些通过可明白输入学习的人。\\
-So, comprehension works. Comprehension is key and language learning is not about accumulating lots of knowledge.\\
-因此,理解是起作用的。理解是关键,学语言本身不仅仅是积累大量的知识。\\
+When you first understand the message, then you will acquire the language unconsciously.
+And this is really, really well documented now,
+it’s something called comprehensible input and there’s twenty or thirty years of research on this.
+Stephen Krashen, a leader in the field has published all sorts of these different studies
+and this is just from one of them.
+The purple bars show the scores on different tests for language.
+The purple people were people who had learned by grammar and formal study,
+the green ones are the ones who learned by comprehensible input.
+So, comprehension works. Comprehension is key and language learning
+is not about accumulating lots of knowledge.\\
+
+当你已经理解沟通的信息含义,接下来你将不知不觉下意识的获得该语言。
+而且这是有充足的证据证明的,我们把它称之为“可明白输入”,
+而这个概念被研究了了研究二三十年。
+此领域的佼佼者史蒂夫·克拉申发布了各类不同的学术研究成果,
+而这些数据来自他的一个报告。
+条形图里面的紫色部分显示不同语言测试的成绩。(picture some data)
+紫色代表那些通过正式学习和学习语法的人,绿色的代表那些通过可明白输入学习的人。
+因此,理解是起作用的。理解是关键,学语言不是靠积累大量知识。\\
+
   + Rule Four
 In many, many ways it’s about physiological training.\\
-在很多方面,学习语言更是一种生理上的训练。\\
-A woman I know from Taiwan did great at English at school, she got A grades all the way through, went through college, A grades, went to the US and found she couldn’t understand what people were saying.\\
-我认识的一位来自台湾的女士,上学时英文成绩很好,大学英语也很优秀。后来,她到了美国,竟然发现自己听不懂别人在说什么。\\
-And people started asking her: ‘are you deaf?’ and she was. English deaf.\\
-然后人们开始问她:“你是聋的吗?”她确实是。英语聋子。\\
-Because we have filters in our brain that filter i n the sounds that we are familiar with and they filter out the sounds of languages we’re not.\\
-因为在我们大脑里有一些过滤器会帮助我们让熟悉语言的声音进入脑子里,而把不熟悉语言的声音过滤出去。\\
-And if you can’t hear it, you won’t understand it and if you can’t understand it, you’re not going to learn it.\\
-如果你听不到,你不会明白;你听不明白,你将不能学会它。\\
-So you actually have to be able to hear these sounds. And there are ways to do that but it’s physiological training.\\
-因此,你必须能够听到这些声音。这里有一些方法来做到,但这些是生理上的训练。\\
-Speaking takes muscle. You’ve got forty-­‐three muscles in your face, you have to coordinate those in a way that you make sounds that other people will understand.\\
-说话需要用到肌肉。在你的脸上有 43 块肌肉,你必须协调好这些肌肉来发声,让别人明白你的话。\\
-If you’ve ever done a new sport for a couple of days, then you know how your body feels. And it hurts.\\
-如果你曾经有做过几天新的运动,你会知道你的身体有什么感觉。有点酸疼。\\
- If your face is hurting you’re doing it right.\\
+A woman I know from Taiwan did great at English at school,
+she got A grades all the way through, went through college,
+A grades, went to the US and found she couldn’t understand what people were saying.
+And people started asking her: ‘are you deaf?’ and she was.
+English deaf.
+Because we have filters in our brain that filter i n the sounds
+that we are familiar with and they filter out the sounds of languages we’re not.
+And if you can’t hear it, you won’t understand it and if you can’t understand it,
+you’re not going to learn it.
+So you actually have to be able to hear these sounds.
+And there are ways to do that but it’s physiological training.
+Speaking takes muscle. You’ve got forty-­‐three muscles in your face,
+you have to coordinate those in a way that you make sounds that other people will understand.
+If you’ve ever done a new sport for a couple of days,
+then you know how your body feels. And it hurts.
+If your face is hurting you’re doing it right.\\
+
+在很多方面,学习语言更是一种生理上的训练。
+我认识的一位来自台湾的女士,上学时英文成绩很好,
+大学英语也很优秀。后来,她到了美国,竟然发现自己听不懂别人在说什么。
+然后人们开始问她:“你是聋的吗?”她确实是。英语聋子。
+因为在我们大脑里有一些过滤器会帮助我们让熟悉语言的声音进入脑子里,而把不熟悉语言的声音过滤出去。
+如果你听不到,你不会明白;你听不明白,你将不能学会它。
+因此,你必须能够听到这些声音。这里有一些方法来做到,但这些是生理上的训练。
+说话需要用到肌肉。在你的脸上有 43 块肌肉,你必须协调好这些肌肉来发声,让别人明白你的话。
+如果你曾经有做过几天新的运动,你会知道你的身体有什么感觉。有点酸疼。
 如果你的面部有这种酸疼的感觉,那就对了。\\
+
   + Rule Five
-And the final principle is state. Psycho-­‐physiological state.\\
-最后一个原则是状态。心理生理的状态。\\
- If you’re sad, angry, worried, upset, you’re not going to learn.\\
-如果你伤心、生气、担心、沮丧,你将不能学会。\\
-Period.\\
-就这样，结束。\\
-If you’re happy, relaxed, in an Alpha brain state, curious, you’re going to learn really quickly, and very specifically you need to be tolerant of ambiguity.\\
-如果你是在一个开心的,放松的,好奇的大脑状态下,你将很快学会,而且,需要明确的一点是,你需要忍受歧义。\\
-If you’re one of those people who needs to understand 100% every word you’re hearing, you will go nuts, because you’ll be incredibly upset all the time, because you’re not perfect.\\
-如果你是那种在听的时候需要百分百听明白别人在说的每一个词儿 的人之一,你会因为你无时无刻(的)沮丧感和你的不完美而发疯了。\\
-If you’re comfortable with getting some, not getting some, just paying attention to what you do understand, you’re going to be fine, you’ll be relaxed and you’ll be learning quickly.\\
-如果你对听明白一些、听不明白一些而感到舒服,并把注意力放在你明白的部分,你将会学好,而且你的状态越轻松,你将学得越快。\\
+And the final principle is state. Psycho-­‐physiological state.
+If you’re sad, angry, worried, upset, you’re not going to learn. Period.
+If you’re happy, relaxed, in an Alpha brain state, curious,
+you’re going to learn really quickly,
+and very specifically you need to be tolerant of ambiguity.
+If you’re one of those people who needs to understand 100% every word you’re hearing,
+you will go nuts, because you’ll be incredibly upset all the time,
+because you’re not perfect.
+If you’re comfortable with getting some,
+not getting some, just paying attention to what you do understand,
+you’re going to be fine, you’ll be relaxed and you’ll be learning quickly.
 So based on those five principles, what are the seven actions that you need to take?\\
-那么在这 5 个原则上,你还需要哪 7 个行动呢?\\
+
+最后一个原则是状态。心理状态。
+如果你伤心、生气、担心、沮丧,你将不能学会。就这样，（结论）完。
+如果你是在一个开心的,放松的,好奇的大脑状态下,
+你将很快学会,另外,还有一点特别重要,你要能忍受模糊性。
+如果你一定要要百分百听明白别人说的每一个词儿,
+你会因为每个不完美的地方而沮丧，抓狂,
+如果你能接受一些听的明白、一些听不明白,
+把注意力放在听明白的部分,这样就可以了，也能学的好,
+而且此时状态更轻松,学得也会更快。
+那么在这 5 个原则上,你还需要哪 7 个方法呢?\\
+
   + Number one: listen a lot.
-第一,多听。\\
 I call it brain soaking.\\
-我把它叫做泡脑子。(picture of brain in bath)\\
-You put yourself in a context where you’re hearing tons and tons and tons of a language and it doesn’t matter if you understand it or not.\\
-你把自己置放在听很多很多语言的环境当中,听得明白与否无关重要。\\
-You’re listening to the rhythm ,you’re listening to the patterns that repeat, you’re listening to things that stand out.\\
-在听的时候,你是在听它的节奏、听它重复的模式、听凸出来的词语。\\
+You put yourself in a context where you’re hearing tons
+and tons and tons of a language and it doesn’t matter if you understand it or not.
+You’re listening to the rhythm,
+you’re listening to the patterns that repeat,
+you’re listening to things that stand out.
 So, just soak your brain in this.\\
+
+第一,大量的听。
+我把它叫做泡脑子。(pic7, picture of brain in bath 泡脑子的图片)
+你把自己置放在听很多很多语言的环境当中,听得明白与否无关重要。
+在听的时候,你是在听它的节奏、听它重复的模式、听凸出来的词语。
 所以，像这样泡泡你的脑子。\\
+
   + The second action: is that you get the meaning first, even before you get the words.
-第二个行动是在获取单词之前先获取它的意思。\\
-You go “Well how do I do that?”, I don’t know the words. Well, you understand what these different postures mean.\\
-你可能在想,这个我怎么做到呢? 我不知道那些单词! 但你可以理解那些不同手势代表的含义。\\
-Human communication is body language in many, many ways, so much body language.\\
-身体语言占领人类交流的一大部分。\\
-From body language you can understand a lot of communication, therefore, you’re understanding, you’re acquiring through comprehensible input.\\
-从身体语言,你可以理解很多对话内容,因此,你通过可明白输入理解、获取它的含义。\\
-And you can also use patterns that you already know.\\
-你还可以利用你已经知道的模式。\\
-If you’re a Chinese speaker of Mandarin and Cantonese and you go Vietnam, you will understand 60% of what they say to you in daily conversation, because Vietnamese is about 30% Mandarin, 30% Cantonese.\\
-如果你是说国语和粤语,当你去到越南,你可以明白 60%的日常用语,因为越南话有 30%的国语\\
-和 30%的粤语。\\
+You go “Well how do I do that?”, I don’t know the words.
+Well, you understand what these different postures mean.
+Human communication is body language in many, many ways, so much body language.
+From body language you can understand a lot of communication,
+therefore, you’re understanding, you’re acquiring through comprehensible input.
+And you can also use patterns that you already know.
+If you’re a Chinese speaker of Mandarin and Cantonese and you go Vietnam,
+you will understand 60% of what they say to you in daily conversation,
+because Vietnamese is about 30% Mandarin, 30% Cantonese.\\
+
+###
+第二个方法是在听到词语之前先弄明白它的意思。
+你可能在想,这个我怎么做到呢? 我不知道那些单词!
+但你可以理解那些不同手势代表的含义。
+身体语言占领人类交流的一大部分。
+从身体语言,你可以理解很多对话内容,
+这样就可以从可理解输入来理解语言。。
+你还可以利用已经知道的模式。
+如果你能说普通话和粤语,去越南之后,
+你可以理解越南人60%的日常对话,
+因为越南话有30%的普通话和30%的粤语。\\
+
   + The third action: start mixing.
-第三个行动:开始混合。\\
-You probably have never thought of this but if you’ve got ten verbs, ten nouns and ten adjectives you can say one thousand different things.\\
-你可能之前没有想过这个,但如果你有 10 个动词,10 个名词和 10 个形容词,你可以说一千句不同的话。\\
-Language is a creative process.\\
-语言是创造的过程。\\
-What do babies do?\\
-孩子是怎么做的呢?\\
-Okay: me, bat(h), now, okay, that’s how they communicate.\\
-我,澡澡,现在。。。这就是他们说话的方式。\\
-So start mixing, get creative, have fun with it, it doesn’t have to be perfect it just has to work.\\
-所以现在开始混合、创造并从中获得趣味。你不需要做到完美,你能沟通就好。\\
-And when you’re doing this you focus on the core.\\
-而且当你这样做的时候,你把注意力放在核心上。\\
- What does that mean?\\
-这意味着什么?\\
-Well any language has high frequency content.\\
-任何语言都有它的高频内容。\\
-In English 1000 words covers 85% of anything you’re ever going to say in daily communication.\\
-英语有 1000 个高频词覆盖你 85%的日常交流。\\
-3000 words gives you 98% of anything you’re going to say in daily conversation.\\
-而 3000 个高频词将覆盖 98%的日常交流。\\
-You got 3000 words, you’re speaking the language.\\
-你有 3000 个高频词,你将可以说一门外语。\\
+You probably have never thought of this but if you’ve got ten verbs,
+ten nouns and ten adjectives you can say one thousand different things.
+Language is a creative process.
+What do babies do?
+Okay: me, bat(h), now, okay, that’s how they communicate.
+So start mixing, get creative, have fun with it, it doesn’t have to be perfect it just has to work.
+And when you’re doing this you focus on the core.
+What does that mean?
+Well any language has high frequency content.
+In English 1000 words covers 85% of anything you’re ever going to say in daily communication.
+3000 words gives you 98% of anything you’re going to say in daily conversation.
+You got 3000 words, you’re speaking the language.
 The rest is icing on the cake.\\
+
+第三个行动:开始混合。
+你可能之前没有想过这个,但如果你有 10 个动词,
+10 个名词和 10 个形容词,你可以说一千句不同的话。
+语言是创造的过程。
+孩子是怎么做的呢?
+我,澡澡,现在。。。这就是他们说话的方式。
+所以现在开始混合、创造并从中获得趣味。你不需要做到完美,你能沟通就好。
+而且当你这样做的同时,把注意力放在语言核心上。
+语言核心是什么意思?
+其实，任何语言都有它的高频内容。
+英语有 1000 个高频词覆盖你 85%的日常交流。
+而 3000 个高频词将覆盖 98%的日常交流。
+掌握 3000 个高频词,你就可以说这们门外语了。
 剩余的是锦上添花。\\
+
   + And when you’re just begging with a new language start with the tool box.
-当你开始学习一门外语,从工具箱开始。\\
-Week number one in your new language you say things like: ‘how do you say that?’\\
-第一周,你会用新语言说一些像这样的话“那个你怎么说?”\\
+Week number one in your new language you say things like:\\
+ ‘how do you say that?’\\
 ‘I don’t understand,’\\
-“我不明白,”\\
 ‘repeat that please,’\\
-“请重复,”\\
 ‘what does that mean,’\\
+all in your target language.
+You’re using it as a tool, making it useful to you,
+it’s relevant to learn other things about the language.\\
+
+当你开始学习一门外语,从工具句子开始。
+第一周,你会用新语言说一些像这样的话\\
+“那个你怎么说?”\\
+“我不明白,”\\
+“请重复,”\\
 “那是什么意思”,\\
-all in your target language.\\
-全都用你的目标语言。\\
-You’re using it as a tool, making it useful to you, it’s relevant to learn other things about the\\
-language.\\
-你把它当做工具来用,并且利用好它,这对学习该门语言的其他东西是有重大关系的。\\
- It’s by week two that you should be saying things like: ‘me,’ ‘this,’ ‘you,’ ‘that,’ ‘give,’ you know, ‘hot,’ simple pronouns, simple nouns, simple verbs, simple adjectives, communicating like a baby.\\
-第二周,你应该会说一些像“我”、“这个”、“你”、“那个”、“给”、“热”,像个孩子\\
-一样用这些简单的代词、名词、动词、形容词来沟通。\\
-And by the third or fourth week, you’re getting into what I call glue words.\\
-然后第三或第四周,你会进入我称为“胶水词”的这部分。\\
- ‘Although,’ ‘but,’ ‘therefore,’ these are logical transformers that tie bits of a language together, allowing you to make more complex meaning.\\
-“虽然”、“但是”、“因此”,这些逻辑工具帮助你把语言的小块紧密地结合在一起,让你制造更多复杂的意思。\\
+这些都是你要用到的句子。\\
+你把它当做工具来用,并且利用好它,
+这对学习该门语言的其他东西是有很大帮助的。\\
+
+ It’s by week two that you should be saying things like:
+‘me,’ ‘this,’ ‘you,’ ‘that,’ ‘give,’ you know, ‘hot,’ simple pronouns,
+simple nouns, simple verbs, simple adjectives, communicating like a baby.\\
+
+第二周,你应该会说一些“我”、“这个”、“你”、“那个”、“给”、“热”,
+等简单的代词、名词、动词、形容词, 能像小孩一样沟通了。\\
+
+And by the third or fourth week, you’re getting into what I call glue words.
+‘Although,’ ‘but,’ ‘therefore,’ these are logical transformers that tie bits of a language together,
+allowing you to make more complex meaning.
 At that point you’re talking.\\
-在那个阶段,你已经进入说话的阶段了! 。\\
+
+然后第三或第四周,你会进入我称为“胶水词”的这部分。
+“虽然”、“但是”、“因此”,这些逻辑工具帮助你把语言的小块紧密地结合在一起,
+让你制造更多复杂的意思。
+这个阶段,你就已经进入说话的阶段了。\\
+
   + And when you’re doing that, you should get yourself a language parent.\\
-当你这样做的时候,你应该给自己找位语言家长。\\
-If you look at how children and parents interact, you’ll understand what this means.\\
-如果你看看孩子和父母之间的互动,你会明白这个什么意思的。\\
-When a child is speaking, it’ll be using simple words, simple combinations, sometimes quite strange, sometimes very strange pronunciation and other people from outside the family don’t understand it.\\
-当一个孩子说话,它会用简单的词,简单的组合,而有时候会发生奇怪甚至是非常怪的声音,如果不是家里人根本就不懂它在说什么。\\
+If you look at how children and parents interact,
+you’ll understand what this means.
+When a child is speaking, it’ll be using simple words,
+simple combinations, sometimes quite strange,
+sometimes very strange pronunciation and other people
+from outside the family don’t understand it.
 But the parents do.\\
+
+与此同时,你应该给自己找位语言家长。
+如果你看看孩子和父母之间的互动,你会明白这个什么意思的。
+当一个孩子说话,它会用简单的词,简单的组合,
+而有时候会发生奇怪甚至是非常怪的声音,
+如果不是家里人根本就不懂它在说什么。
 但是父母却知道。\\
-And so the kid has a safe environment, gets confidence.\\
-因此,孩子有个安全的环境,然后变得有自信。\\
-The parents talk to the children with body language and with simple language which they know their child understands.\\
-父母用孩子可以理解的身体语言和简单句子跟他们说话。\\
-So we have a comprehensible input environment that’s safe, we know it works otherwise none of you would speak your mother tongue.\\
-因此我们有一个很安全的可明白输入的环境。我们知道这个有用,不然的话我们都不会说自己的母语。\\
-So you get yourself a language parent, who’s somebody interested in you as a person who will communicate with you essentially as an equal, but pay attention to help you understand the message.\\
-因此你可以给自己找个语言家长,他是对你感兴趣的一个人,可以跟你沟通得上的,甚至专注于帮助你理解的同辈。\\
-There are four rules of a language parent.\\
-语言家长有四个规则。\\
-Spouses by the way are not very good at this, okay?\\
-顺便说一下,配偶在这里没有那么好,明白吗?\\
-But the four rules are, first of all, they will work hard to understand what you mean even when you’re way off beat.\\
-那么 4 条规则是,第一,他们会尽可能地理解你的意思,哪怕你脱离节拍。\\
+
+And so the kid has a safe environment, gets confidence.
+The parents talk to the children with body language and
+with simple language which they know their child understands.
+So we have a comprehensible input environment that’s safe,
+we know it works otherwise none of you would speak your mother tongue.
+So you get yourself a language parent,
+who’s somebody interested in you as a person
+who will communicate with you essentially as an equal,
+but pay attention to help you understand the message.\\
+
+因此,孩子有个安全的环境,然后变得有自信。
+父母用孩子可以理解的身体语言和简单句子跟他们说话。
+因此我们有一个很安全的可明白输入的环境。我们知道这个有用,
+不然的话我们都不会说自己的母语。
+因此你可以给自己找个语言家长,他是对你感兴趣的一个人,
+可以跟你沟通得上的,甚至专注于帮助你理解的同辈。\\
+
+There are four rules of a language parent.
+Spouses by the way are not very good at this, okay?
+But the four rules are, first of all,
+they will work hard to understand what you mean even when you’re way off beat.\\
 Secondly, they will never correct your mistakes.\\
+Thirdly they will feed back their understanding of what you are saying
+so you can respond appropriately and get that feedback and then they will use words that you know.\\
+(...)
+
+语言家长有四个规则。
+顺便说一下,配偶在这里没有那么好,明白吗?
+那么 4 条规则是,
+第一,他们会尽可能地理解你的意思,哪怕你脱离节拍。\\
 第二,他们从来不会纠正你的错误。\\
-Thirdly they will feed back their understanding of what you are saying so you can respond appropriately and get that feedback and then they will use words that you know.\\
-第三,他们会理解你说的话并给出反馈,好让你适当地回应并获得反馈,并且他们也是说你知道的单词。\\
+第三,他们会理解你说的话并给出反馈,好让你适当地回应并获得反馈,
+并且他们也是说你知道的单词。\\
+（待补充）
+
   + The sixth thing you have to do, is copy the face.
-第六件事你需要做的就是模仿面部表情。\\
-You’ve got to get the muscles working right, so you can sound in a way that people will understand you.\\
-你需要把肌肉部位用得准确,别人才可以听明白你发出的声音。\\
-There’s a couple of things you do.\\
-达到此目的,你需要做几件事情。\\
-One is that you hear how it feels, and feel how it sounds which means you have a feedback loop operating in your face, but ideally if you can look at a native speaker and just observe how they use their face, let your unconscious mind absorb the rules, then you’re going to be able to pick it up.\\
-第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。如果条件理想的话,你可以看着母语者并观察他们的面部,让你下意识地吸收这些规则,然后你将能够获取到它。\\
+You’ve got to get the muscles working right,
+so you can sound in a way that people will understand you.
+There’s a couple of things you do.
+One is that you hear how it feels,
+and feel how it sounds which means you have a feedback loop operating in your face,
+but ideally if you can look at a native speaker and just observe how they use their face,
+let your unconscious mind absorb the rules, then you’re going to be able to pick it up.
 And if you can’t get a native speaker to look at, you can use stuff like this: [slides].\\
-如果你没有母语者可以看着学习的话,你可以用像这样的东西。(picture sth )\\
+
+第六件事你需要做的就是模仿面部表情。
+你需要把肌肉部位用得准确,别人才可以听明白你发出的声音。
+达到此目的,你需要做几件事情。
+第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。
+如果条件理想的话,你可以看着母语者并观察他们的面部,
+让你下意识地吸收这些规则,然后你将能够获取到它。
+如果你没有母语者可以看着学习的话,你可以用像这样的东西。(pic 7, picture sth )\\
+
   + And the final idea here, the final action you need to take is something that I call “direct connect.”
-最后一个行动是你需要“直接关联”。\\
-What does this mean?\\
-这是什么意思呢?\\
-Well most people learning a second language sort of take the mother tongue words and take the target words and go over them again and again in their mind to try and remember them.\\
-大多数人学习外语几乎都是用母语的单词对照目标语言,反复地在心中念并尝试记住它们。\\
-Really inefficient.\\
-这样做效率真的很低。\\
-What you need to do is realize that everything you know is an image inside your mind, it’s feelings.\\
+What does this mean?
+Well most people learning a second language sort of take the mother tongue words
+and take the target words and go over them again and again in their mind to try and remember them.
+Really inefficient.
+What you need to do is realize that everything you know is
+an image inside your mind, it’s feelings.\\
+
+最后一个行动是你需要“直接关联”。
+这是什么意思呢?
+大多数人学习外语几乎都是用母语的单词对照目标语言,
+反复地在心中念并尝试记住它们。
+这样真的效率很低。
 你需要做的是意识到所有你知道的事情，在你的脑海里都是一种画面和感觉。\\
-if you talk about fire you can smell the smoke you can hear the crackling, you can see the flames,\\
-如果你说到“火”,你可以闻到那个烟味,你可以听到那燃烧的爆裂声,你可以看到那火焰,\\
-so what you do, is you go into that imagery and all of that memory and you come out with another pathway.\\
-所以你需要做的是,进入那些意象和有关的所有的记忆中,然后从另一条通道出来。\\
-So I call it ‘same box, different path.’\\
-我把这叫做“殊途同归”(同一个盒子,不同的路)。\\
-You come out of that pathway, you build it over time you become more and more skilled at just connecting the new sounds to those images that you already have, into that internal representation.\\
-你从那条通道出来,你将建立这种技能并且越来越熟练地把新的声音连接到你心里已经知道的画面去。\\
-And over time you even become naturally good at that process, that becomes unconscious.\\
-往后你甚至很擅长走这个过程,甚至是无意识的。\\
-So, there are five principles that you need to work with, seven actions, if you do any of them, you’re going to improve.\\
-因此,你需要运用的那 5 个原则和 7 个行动,如果你运用其中任何一个,都将得到进步。\\
-And remember these are things under your control as the learner.\\
-并且记住,作为学习者,这些事情都在你的掌控之下。\\
+
+if you talk about "fire" you can smell the smoke you can hear the crackling,
+you can see the flames,
+so what you do, is you go into that imagery and
+all of that memory and you come out with another pathway.
+So I call it ‘same box, different path.’
+You come out of that pathway,
+you build it over time you become more and more skilled
+at just connecting the new sounds to those images that you already have,
+into that internal representation.
+And over time you even become naturally good at that process, that becomes unconscious.
+So, there are five principles that you need to work with, seven actions,
+if you do any of them, you’re going to improve.
+And remember these are things under your control as the learner.
 Do them all and you’re going to be fluent in a second language in six months.\\
+
+如果你说到"fire"这个单词,你可以闻到那个烟味,
+你可以听到那燃烧的爆裂声,你可以看到那火焰,
+所以你需要做的是,进入那些意象和有关的所有的记忆中,然后从另一条通道出来。
+我把这叫做“殊途同归”(同一个盒子,不同的路)。
+你从那条通道出来,
+你将建立这种技能并且越来越熟练地把新的声音连接到你心里已经知道的画面去。
+往后你甚至很擅长走这个过程,甚至是无意识的。
+因此,你需要运用的那 5 个原则和 7 个行动,如果你运用其中任何一个,都将得到进步。
+并且记住,作为学习者,这些事情都在你的掌控之下。
 如果你做到以上全部,你将会在六个月内学会流利的外语。\\
 
 Thank you.\\
