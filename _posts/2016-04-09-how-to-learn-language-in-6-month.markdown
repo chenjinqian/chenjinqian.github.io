@@ -183,17 +183,17 @@ And before I get into those I just want to talk about two myths, dispel two myth
 
 <p>
 The first is that you need talent.<br  />
-Let me tell you about Zoe.<br  />
+Let me tell you about Zoe.
 Zoe came from Australia, went to Holland, was trying to learn Dutch,
 struggling a great deal and finally people were saying: ‘you’re completely useless,’
-‘you’re not talented,’ ‘give up,’ ‘you’re a waste of time’ and she was very, very depressed.<br  />
+‘you’re not talented,’ ‘give up,’ ‘you’re a waste of time’ and she was very, very depressed.
 And then she came across these five principles,
 she moved to Brazil and she applied them and within six months she was fluent in Portuguese,
 so talent doesn’t matter.<br  />
 </p>
 
 <p>
-第一个神话是你需要有天赋。让我讲讲佐伊的事情。<br  />
+第一个神话是你需要有天赋。让我讲讲佐伊的事情。
 佐伊是澳大利亚人,她去到荷兰并尝试学习荷兰语。她非常挣扎,
 最后人们跟她说,“没用的,” “你没有天赋,”“还是放弃吧”,“你根本就是在浪费时间”。
 她对此感到非常沮丧。
@@ -202,7 +202,7 @@ so talent doesn’t matter.<br  />
 </p>
 
 <p>
-The second is that you need immersion envirement.
+The second is that you need immersion envirement.<br  />
 But look around Hong Kong, look at all the westerners who’ve been here for ten years,
  who don’t speak a word of Chinese.
 Look at all the Chinese living in America, Britain, Australia,
@@ -433,7 +433,7 @@ So based on those five principles, what are the seven actions that you need to t
 </li>
 </ul>
 <p>
-I call it brain soaking.<br  />
+I call it brain soaking(pic 7).
 You put yourself in a context where you’re hearing tons
 and tons and tons of a language and it doesn’t matter if you understand it or not.
 You’re listening to the rhythm,
@@ -444,7 +444,7 @@ So, just soak your brain in this.<br  />
 
 <p>
 第一,大量的听。
-我把它叫做泡脑子。(pic7, picture of brain in bath 泡脑子的图片)
+我把它叫做泡脑子。(pic 7, picture of brain in bath 泡脑子的图片)
 你把自己置放在听很多很多语言的环境当中,听得明白与否无关重要。
 在听的时候,你是在听它的节奏、听它重复的模式、听凸出来的词语。
 所以，像这样泡泡你的脑子。<br  />
@@ -647,7 +647,7 @@ One is that you hear how it feels,
 and feel how it sounds which means you have a feedback loop operating in your face,
 but ideally if you can look at a native speaker and just observe how they use their face,
 let your unconscious mind absorb the rules, then you’re going to be able to pick it up.
-And if you can’t get a native speaker to look at, you can use stuff like this: [slides].<br  />
+And if you can’t get a native speaker to look at, you can use stuff like this: (pic 8, slide).<br  />
 </p>
 
 <p>
@@ -657,7 +657,7 @@ And if you can’t get a native speaker to look at, you can use stuff like this:
 第一,听它是什么感觉的并感觉它是怎样发出声音的,从你的脸上获得反馈。
 如果条件理想的话,你可以看着母语者并观察他们的面部,
 让你下意识地吸收这些规则,然后你将能够获取到它。
-如果你没有母语者可以看着学习的话,你可以用像这样的东西。(pic 7, picture sth )<br  />
+如果你没有母语者可以看着学习的话,你可以用像这样的东西。(pic 8, slide)<br  />
 </p>
 
 <ul class="org-ul">
