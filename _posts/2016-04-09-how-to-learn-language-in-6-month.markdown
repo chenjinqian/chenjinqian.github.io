@@ -723,6 +723,4 @@ Reference:<br  />
 <ol class="org-ol">
 <li><a href="http://tedxtalks.ted.com/video/How-to-learn-any-language-in-si">How to learn any language in six months: Chris Lonsdale at TEDxLingnanUniversity</a><br  />
 </li>
-<li><a href="http://www.kungfuenglish.com/page/618">Chris Lonsdale 龙飞虎介绍，功夫英语</a>
-</li>
 </ol>
