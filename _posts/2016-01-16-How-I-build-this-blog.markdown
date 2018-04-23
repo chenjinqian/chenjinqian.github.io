@@ -67,7 +67,7 @@ I use github.com as my blog host.
 
 <pre class="src src-sh">jekyll new cjq.io
 tree ~/dld/test-blog
-rake theme:install <span style="color: #9acd32;">git</span>=<span style="color: #bdb76b;">"git://github.com/jekyllbootstrap/theme-mark-reid.git"</span>
+rake theme:install <span style="color: #fcaf3e;">git</span>=<span style="color: #e9b96e;">"git://github.com/jekyllbootstrap/theme-mark-reid.git"</span>
 </pre>
 </div>
 <div class="org-src-container">
@@ -152,8 +152,6 @@ The result is bold text like this:
 <li>GTD with ORG
 </li>
 <li>Checkout to use org-md-export-to-markdown method.
-</li>
-<li>How to add up a picture? with right href. No working right now.
 </li>
 <li>I will change the main menu option of this blog.
 </li>
