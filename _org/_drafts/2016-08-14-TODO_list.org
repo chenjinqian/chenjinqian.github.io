@@ -19,7 +19,9 @@ I had a plan to write down something for a long time, here is some of it.
     1: power is the source of right.
     2: fighting is the source of power, but fighting always hurt itself when it is real in action.
     3: true and one heart.
-    4:
+    4:gggg
     5:
     6: You do not need to waste time.
 write forward but not backward.
+* write javascript on this blog.
+* checkout if this support html5.

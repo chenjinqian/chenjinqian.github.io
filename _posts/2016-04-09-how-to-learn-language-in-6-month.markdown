@@ -1,28 +1,13 @@
-<p>
-#yy
-+BEGIN_HTML
-&#x2014;
+---
 layout: post
-title: How to learn any language in six months &#x2013; Chris Lonsdale.
+title: How to learn any language in six months -- Chris Lonsdale.
 excerpt: Language learing theory from TED speach. With Chinese translation, still need some pictures.
 categories:
-</p>
-<ul class="org-ul">
-<li>tech
-</li>
-</ul>
-<p>
+    - tech
 tags:
-</p>
-<ul class="org-ul">
-<li>languages
-</li>
-</ul>
-<p>
+    - languages
 layout: post
-&#x2014;
-#+END_HTML
-</p>
+---
 <ul class="org-ul">
 <li>如何在 6 个月内学会任何外语,<a href="http://www.kungfuenglish.com/page/618">龙飞虎</a>
 </li>
