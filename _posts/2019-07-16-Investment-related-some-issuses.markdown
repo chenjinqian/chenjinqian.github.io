@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Investment related some issuse from my work
-excerpt: summery of my work as investment strategy modeling at last two years.
+excerpt: summery of my work as investment strategy modeling at last two years. 我的这两年的投资策略研究工作中涉及到相关问题的总结
 categories:
     - tech
 tags:
@@ -32,5 +32,5 @@ layout: post
 
 <p>
    抛一个均质硬币，猜正反面。假设两面概率完全相同，不存在站立的情况(如果出现就重新抛一次，直到有效)。每次下注 f 元， 如果猜对，
-赌注f 返还， 另外赢 2f 元。如果猜错，赌注f 全部输掉。初始资金100元，最多玩100次。 何种策略最佳？
+赌注f 返还， 另外赢 2f 元。如果猜错，赌注f 全部输掉。初始资金100元，最多玩100次。 f 每次取多少， 是最佳策略？
 </p>
