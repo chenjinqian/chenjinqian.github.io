@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Investment related some issuse from my work
-excerpt: summery of my work as investment strategy modeling at last two years.
-我的这两年的投资策略研究工作中遇到问题的总结
+excerpt: summery of my work as investment strategy modeling at last two years 我的这两年的投资策略研究工作中遇到问题的总结
 categories:
     - tech
 tags:
